@@ -1154,63 +1154,77 @@ Detta dokument fastställer villkoren för att använda autoBlogger. Vänligen l
 
 ## Det Viktiga:
 
-### Innehållsskapande och Ansvar
+### Innehållsgenerering och Ansvar
 
-Skaparna av autoBlogger är inte ansvariga för det innehåll som genereras av appen. autoBlogger använder tredjeparts AI-programvara (Chat-GPT) för att automatiskt skapa och publicera bloggar på användarnas Shopify-butiker. Användaren erkänner och samtycker till att innehållet som genereras av autoBlogger är baserat på AI-algoritmer och inte kan garanteras vara perfekt eller fritt från fel. Det är helt användarens ansvar att kontrollera och korrigera eventuellt innehåll eller bilder.
+Skaparna av autoBlogger ansvarar inte för det innehåll som genereras av appen. autoBlogger använder sig av AI-programvara från tredje part (Chat-GPT) för att automatiskt skapa och publicera bloggar på användarnas Shopify-butiker. Användaren erkänner och godkänner att det innehåll som genereras av autoBlogger baseras på AI-algoritmer och inte kan garanteras vara perfekt eller fritt från fel. Det är helt upp till butiksägaren att kontrollera och korrigera eventuellt innehåll eller bilder.
 
-Observera att informationen som tillhandahålls av autoBlogger är baserad på data tillgänglig fram till GPT-träningsavsnittets avstängningsdatum. Ämnen som kräver information efter det datumet kan resultera i bloggar som inte är korrekta, eftersom AI:s kunskap är begränsad till det som var tillgängligt fram till den punkten.
+Observera att informationen som tillhandahålls av autoBlogger baseras på data tillgänglig fram till GPT-träningsavsnittets avsnittsdatum. Ämnen som kräver information efter det datumet kan resultera i bloggar som inte är korrekta, eftersom AI:s kunskap är begränsad till det som var tillgängligt fram till den punkten.
 
 ### Sökmotoroptimering (SEO)
 
-Sökmotoroptimering (SEO) påverkas av många faktorer. Även om autoBlogger fokuserar på två avgörande aspekter - länkbyggande och bloggande - är det inte en heltäckande SEO-verktyg. Liksom alla SEO-ansatser garanteras inga resultat, och framgång kan variera beroende på olika faktorer, inklusive konkurrens, kvalitet på innehållet och webbplatsstruktur. Som med alla SEO-verktyg vill vi betona att inga återbetalningar kommer att ges baserat på de SEO-resultat du upplever.
+Sökmotoroptimering (SEO) påverkas av många faktorer. Medan autoBlogger fokuserar på två avgörande aspekter - tillbaka-länkning och bloggande - är det inte en allt-i-ett SEO-verktyg. Liksom alla SEO-ansatser garanteras inga resultat och framgång kan variera beroende på olika faktorer, inklusive konkurrens, innehållskvalitet och webbplatsstruktur. Som med alla SEO-verktyg vill vi betona att inga återbetalningar kommer att ges baserat på de SEO-resultat du upplever.
 
-Genom att använda autoBlogger:s tjänster erkänner du att förändringar i söktrafik till din butik kan inträffa av olika skäl, och autoBlogger är inte ansvarig för sådana fluktuationer. Möjliga orsaker till förändringar i söktrafik inkluderar, men är inte begränsade till, uppdateringar av sökmotoralgoritmer, ändringar på webbplatsen och externa marknadskrafter. Det är viktigt att notera att autoBlogger inte tar något ansvar för någon förändring i söktrafik eller sökmetriker och kan inte garantera specifika resultat.
+Genom att använda autoBlogger:s tjänster erkänner du att eventuella förändringar i söktrafiken till din butikswebbplats kan inträffa på grund av olika faktorer, och autoBlogger är inte ansvarig för sådana fluktuationer. Möjliga skäl till förändringar i söktrafik inkluderar, men är inte begränsade till, sökmotoralgoritmutvecklingar, webbplatsförändringar och externa marknadskrafter. Det är viktigt att notera att autoBlogger inte bär något ansvar för någon förändring i söktrafik eller sökmetriker och kan inte garantera specifika resultat.
 
 ### Återbetalningar och Prenumerationer
 
 Återbetalningar erbjuds inte för att glömma att avbryta prenumerationer eller av någon annan anledning utanför autoBlogger:s kontroll.
 
-### Baklänkprogram
+### Backlink-program
 
-Genom att delta i baklänkprogrammet samtycker du till delning och publicering av din butiks URL på andra butikers bloggar. Du samtycker också till att länkar till andra butiker ibland kan publiceras på dina bloggar. Observera att autoBlogger inte tar något ansvar för innehållet på länkade butiker.
+Genom att delta i backlink-programmet samtycker du till delning och publicering av din butiks-URL på andra butikers bloggar. Du samtycker också till att länkar till andra butiker ibland kan publiceras på dina bloggar. Observera att autoBlogger inte tar något ansvar för innehållet i länkade butiker.
 
 ## Villkor och Bestämmelser:
 
-### Godkänd Användning
+### Acceptabel Användning
 
-Användaren samtycker till att använda autoBlogger endast för lagliga ändamål. Användaren kommer inte att använda autoBlogger för att skapa eller distribuera något innehåll som är förtalande, kränkande eller olagligt.
+Användaren samtycker till att använda autoBlogger endast för lagliga ändamål. Användaren får inte använda autoBlogger för att skapa eller distribuera något innehåll som är förtalande, kränkande eller olagligt.
 
 ### Avgifter och Betalning
 
-Användaren samtycker till att betala eventuella avgifter för att använda autoBlogger. Skaparna av autoBlogger förbehåller sig rätten att ändra avgifterna när som helst. Användaren kommer att meddelas i förväg om eventuella ändringar i avgifterna.
+Användaren samtycker till att betala eventuella avgifter för användning av autoBlogger. Skaparna av autoBlogger förbehåller sig rätten att när som helst ändra avgifterna. Användaren kommer att meddelas i förväg om några ändringar i avgifterna.
 
-### Begränsning av Ansvar
+### Ansvarsbegränsning
 
-Skaparna av autoBlogger kommer inte att hållas ansvariga för direkta, indirekta, incidentella eller följdskador som uppstår från användningen eller oförmågan att använda autoBlogger, inklusive men inte begränsat till förlust av vinster, data eller affär.
+Skaparna av autoBlogger kommer inte att vara ansvariga för några direkta, indirekta, oavsiktliga eller följdskador som uppstår vid användning eller oförmåga att använda autoBlogger, inklusive men inte begränsat till förlust av vinster, data eller företag.
 
 ### Avslutning
 
-Skaparna av autoBlogger förbehåller sig rätten att avsluta användarens åtkomst till autoBlogger när som helst av vilken anledning som helst. Användaren kan avsluta sin användning av autoBlogger när som helst genom att avinstallera appen från sin Shopify-butik.
+Skaparna av autoBlogger förbehåller sig rätten att avsluta användarens åtkomst till autoBlogger när som helst av någon anledning. Användaren kan avsluta sin användning av autoBlogger när som helst genom att avinstallera appen från sin Shopify-butik.
 
 ### Sekretesspolicy
 
-Skaparna av autoBlogger tar användarnas integritet på allvar. Vi kommer endast att använda den information som användaren tillhandahåller i enlighet med Shopify:s integritetspolicy. Genom att använda autoBlogger samtycker användaren till villkoren i Shopify:s integritetspolicy.
+Skaparna av autoBlogger tar användarnas integritet på allvar. Vi kommer endast att använda den information som användaren tillhandahåller i enlighet med Shopify:s sekretesspolicy. Genom att använda autoBlogger godkänner användaren villkoren i vår Shopify:s sekretesspolicy.
 
-### Ansvarsfriskrivning
+### Friskrivning
 
-autoBlogger tillhandahålls "som det är" utan några garantier, uttryckta eller underförstådda. Skaparna av autoBlogger gör inga utfästelser eller garantier av något slag, inklusive men inte begränsat till noggrannheten eller fullständigheten av innehållet som genereras av autoBlogger.
+autoBlogger tillhandahålls "som det är" utan några garantier, uttryckta eller underförstådda. Skaparna av autoBlogger gör inga representationer eller garantier av något slag, inklusive men inte begränsat till, korrektheten eller fullständigheten av det innehåll som autoBlogger genererar.
 
-### Skadestånd
+### Försäkring
 
-Användaren samtycker till att skadestå och hålla oskyldiga skaparna av autoBlogger från alla anspråk, skador, kostnader och ansvar, inklusive rimliga advokatkostnader, som uppstår från eller i samband med användarens användning av autoBlogger eller något brott mot dessa villkor och bestämmelser.
+Användaren samtycker till att ersätta och hålla oskyldiga skaparna av autoBlogger från alla anspråk, skador, kostnader och ansvar, inklusive rimliga advokatarvoden, som uppstår i samband med användarens användning av autoBlogger eller något brott mot dessa villkor och bestämmelser.
 
 ### Ändring av Villkor och Bestämmelser
 
 Skaparna av autoBlogger förbehåller sig rätten att ändra dessa villkor och bestämmelser när som helst. Användaren kommer att meddelas om eventuella ändringar i dessa villkor och bestämmelser.
 
-### Tillämplig Lag och Jurisdiktion
+### Lagval och Jurisdiktion
 
-Dessa villkor och bestämmelser regleras av och tolkas i enlighet med lagarna i den jurisdiktion där skaparna av autoBlogger är belägna. Användaren samtycker till att underkasta sig uteslutande jurisdiktion från domstolarna i den jurisdiktionen.
+Dessa villkor och bestämmelser styrs av och tolkas i enlighet med lagarna i den jurisdiktion där skaparna av autoBlogger är belägna. Användaren samtycker till att underkasta sig exklusiv jurisdiktion för domstolarna i den jurisdiktionen.
+
+### Back-Link Program
+
+Genom att delta i back-link-programmet erkänner och godkänner du dessa villkor och bestämmelser. Dessa villkor utgör ett bindande avtal mellan dig och autoBlogger.
+
+Genom att delta i back-link-programmet ger du autoBlogger tillstånd att dela och publicera din butiks-URL på andra butikers bloggar. Detta möjliggör ökad synlighet och potentiell trafik till din butik.
+
+Som en del av back-link-programmet kan dina bloggar ibland innehålla länkar till andra butiker. Denna ömsesidiga överenskommelse syftar till att främja samarbete och ömsesidiga fördelar bland deltagande användare.
+
+autoBlogger tar inget ansvar för innehållet i några länkade butiker. Varje butik är ensam ansvarig för noggrannheten, lagligheten och lämpligheten av sitt eget innehåll.
+
+När back-länkarna har publicerats samtycker du till att inte ta bort dem utan föregående samtycke från autoBlogger. Att ta bort back-linkar kan leda till avslut från programmet.
+
+autoBlogger förbehåller sig rätten att när som helst ändra eller avsluta back-link-programmet utan föregående meddelande. Det är ditt ansvar att regelbundet granska dessa villkor för att hålla dig informerad om eventuella förändringar.
 
 ***
 
