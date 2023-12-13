@@ -80,96 +80,1282 @@ Once the back-links are published, you agree not to remove them without prior co
 autoBlogger reserves the right to modify or terminate the back-link program at any time without prior notice. It is your responsibility to review these terms periodically to stay informed about any changes.
 
 # Chinese (Simplified) <a name="chinese-simplified"></a>
+## 服务条款
 
+本文档概述了使用autoBlogger的条款和条件。在使用该应用之前，请仔细阅读这些条款。
+
+## 重要事项：
+
+### 内容生成和责任
+
+autoBlogger的创建者对应用生成的内容不负责任。autoBlogger使用第三方AI软件（Chat-GPT）自动创建并发布博客到用户的Shopify商店。用户承认并同意，autoBlogger生成的内容基于AI算法，不能保证完美或没有错误。完全由商店所有者负责检查和更正任何内容或图片。
+
+请注意，autoBlogger提供的信息基于GPT截止日期前的可用数据。对于需要截止日期后的信息的主题可能导致博客不准确，因为AI的知识仅限于那个时间点可用的信息。
+
+### 搜索引擎优化（SEO）
+
+搜索引擎优化（SEO）受许多因素的影响。虽然autoBlogger专注于两个关键方面 - 反向链接和博客 - 但它不是一个全能的SEO工具。与任何SEO方法一样，结果不能保证，并且成功可能因各种因素而异，包括竞争，内容质量和网站结构。与所有SEO工具一样，我们要强调，不会基于您的SEO结果提供退款。
+
+通过使用autoBlogger的服务，您承认由于各种因素，包括但不限于搜索引擎算法更新，网站更改和外部市场力量，您的商店网站的搜索流量可能发生变化，autoBlogger对于这种搜索流量变化或搜索指标的任何变化概不负责，并且不能保证特定的结果。
+
+### 退款和订阅
+
+不提供因忘记取消订阅或由于autoBlogger控制之外的任何原因而导致的退款。
+
+### 反向链接计划
+
+通过加入反向链接计划，您同意分享并在其他商店的博客上发布您的商店URL。您还同意您的博客中可能偶尔会发布到其他商店的链接。请注意，autoBlogger对于任何链接商店的内容概不负责。
+
+## 条款和条件：
+
+### 可接受使用
+
+用户同意仅出于合法目的使用autoBlogger。用户不得使用autoBlogger创建或分发任何诽谤性，冒犯性或非法的内容。
+
+### 费用和支付
+
+用户同意支付使用autoBlogger相关的任何费用。autoBlogger的创建者保留随时更改费用的权利。用户将在更改费用之前提前收到通知。
+
+### 责任限制
+
+autoBlogger的创建者对于使用或无法使用autoBlogger而产生的任何直接，间接，附带或后果性损害概不负责，包括但不限于利润损失，数据损失或业务中断。
+
+### 终止
+
+autoBlogger的创建者保留随时出于任何原因终止用户对autoBlogger的访问的权利。用户可以随时通过从其Shopify商店卸载应用程序来终止使用autoBlogger。
+
+### 隐私政策
+
+autoBlogger的创建者严肃对待用户的隐私。我们将根据Shopify的隐私政策仅使用用户提供的信息。通过使用autoBlogger，用户同意遵守我们Shopify隐私政策的条款。
+
+### 免责声明
+
+autoBlogger按原样提供，不附带任何明示或暗示的保证。autoBlogger的创建者对于autoBlogger生成的内容的准确性或完整性等方面不作任何陈述或保证。
+
+### 补偿
+
+用户同意赔偿并使autoBlogger的创建者免受任何索赔，损害赔偿，费用和责任的责任，包括合理的律师费，由于或与用户使用autoBlogger或违反这些条款和条件有关。
+
+### 条款和条件的修改
+
+autoBlogger的创建者保留随时修改这些条款和条件的权利。用户将被通知任何对这些条款和条件的更改。
+
+### 适用法律和司法管辖权
+
+这些条款和条件受autoBlogger的创建者所在地的法律支配并按照其解释。用户同意提交于该司法辖区的法院的专属管辖权。
+
+### 反向链接计划
+
+通过参与反向链接计划，您承认并同意这些条款和条件。这些条款构成您与autoBlogger之间的约束协议。
+
+加入反向链接计划，您授权autoBlogger在其他商店的博客上分享和发布您的商店URL。这有助于增加可见性并潜在地增加到您商店的流量。
+
+作为反向链接计划的一部分，您的博客可能会偶尔包含到其他商店的链接。这种互惠安排旨在促进参与用户之间的相互宣传和互惠利益。
+
+autoBlogger对于任何链接商店的内容概不负责。每个商店对其自身内容的准确性，合法性和适当性负有唯一责任。
+
+一旦反向链接发布，您同意未经autoBlogger事先同意不删除它们。删除反向链接可能导致退出该计划。
+
+autoBlogger保留随时修改或终止反向链接计划的权利，而无需提前通知。定期查看这些条款以了解任何变化是您的责任。
 
 ***
 
 # Chinese (Traditional) <a name="chinese-traditional"></a>
+## 服務條款
 
+本文件概述了使用autoBlogger的條款和條件。在使用該應用之前，請仔細閱讀這些條款。
+
+## 重要事項：
+
+### 內容生成和責任
+
+autoBlogger的創建者對應用生成的內容不負責任。autoBlogger使用第三方AI軟件（Chat-GPT）自動創建並發布博客到用戶的Shopify商店。用戶承認並同意，autoBlogger生成的內容基於AI算法，不能保證完美或沒有錯誤。完全由商店所有者負責檢查和更正任何內容或圖片。
+
+請注意，autoBlogger提供的信息基於GPT截止日期前的可用數據。對於需要截止日期後的信息的主題可能導致博客不準確，因為AI的知識僅限於那個時間點可用的信息。
+
+### 搜索引擎優化（SEO）
+
+搜索引擎優化（SEO）受許多因素的影響。雖然autoBlogger專注於兩個關鍵方面 - 反向鏈接和博客 - 但它不是一個全能的SEO工具。與任何SEO方法一樣，結果不能保證，並且成功可能因各種因素而異，包括競爭，內容質量和網站結構。與所有SEO工具一樣，我們要強調，不會基於您的SEO結果提供退款。
+
+通過使用autoBlogger的服務，您承認由於各種因素，包括但不限於搜索引擎算法更新，網站更改和外部市場力量，您的商店網站的搜索流量可能發生變化，autoBlogger對於這種搜索流量變化或搜索指標的任何變化概不負責，並且不能保證特定的結果。
+
+### 退款和訂閱
+
+不提供因忘記取消訂閱或由於autoBlogger控制之外的任何原因而導致的退款。
+
+### 反向鏈接計劃
+
+通過加入反向鏈接計劃，您同意分享並在其他商店的博客上發布您的商店URL。您還同意您的博客中可能偶爾會發布到其他商店的鏈接。請注意，autoBlogger對於任何鏈接商店的內容概不負責。
+
+## 條款和條件：
+
+### 可接受使用
+
+用戶同意僅出於合法目的使用autoBlogger。用戶不得使用autoBlogger創建或分發任何誹謗性，冒犯性或非法的內容。
+
+### 費用和支付
+
+用戶同意支付使用autoBlogger相關的任何費用。autoBlogger的創建者保留隨時更改費用的權利。用戶將在更改費用之前提前收到通知。
+
+### 責任限制
+
+autoBlogger的創建者對於使用或無法使用autoBlogger而產生的任何直接，間接，附帶或後果性損害概不負責，包括但不限於利潤損失，數據損失或業務中斷。
+
+### 終止
+
+autoBlogger的創建者保留隨時出於任何原因終止用戶對autoBlogger的訪問的權利。用戶可以隨時通過從其Shopify商店卸載應用程序來終止使用autoBlogger。
+
+### 隱私政策
+
+autoBlogger的創建者嚴肅對待用戶的隱私。我們將根據Shopify的隱私政策僅使用用戶提供的信息。通過使用autoBlogger，用戶同意遵守我們Shopify隱私政策的條款。
+
+### 免責聲明
+
+autoBlogger按原樣提供，不附帶任何明示或暗示的保證。autoBlogger的創建者對於autoBlogger生成的內容的準確性或完整性等方面不作任何陳述或保證。
+
+### 賠償
+
+用戶同意賠償並使autoBlogger的創建者免受任何索賠，損害賠償，費用和責任的責任，包括合理的律師費，由於或與用戶使用autoBlogger或違反這些條款和條件有關。
+
+### 條款和條件的修改
+
+autoBlogger的創建者保留隨時修改這些條款和條件的權利。用戶將被通知任何對這些條款和條件的更改。
+
+### 適用法律和司法管轄權
+
+這些條款和條件受autoBlogger的創建者所在地的法律支配並按照其解釋。用戶同意提交於該司法轄區的法院的專屬管轄權。
+
+### 反向鏈接計劃
+
+通過參與反向鏈接計劃，您承認並同意這些條款和條件。這些條款構成您與autoBlogger之間的約束協議。
+
+加入反向鏈接計劃，您授權autoBlogger在其他商店的博客上分享和發布您的商店URL。這有助於增加可見性並潛在地增加到您商店的流量。
+
+作為反向鏈接計劃的一部分，您的博客可能會偶爾包含到其他商店的鏈接。這種互惠安排旨在促進參與用戶之間的相互宣傳和互惠利益。
+
+autoBlogger對於任何鏈接商店的內容概不負責。每個商店對其自身內容的準確性，合法性和適當性負有唯一責任。
+
+一旦反向鏈接發布，您同意未經autoBlogger事先同意不刪除它們。刪除反向鏈接可能導致退出該計劃。
+
+autoBlogger保留隨時修改或終止反向鏈接計劃的權利，而無需提前通知。定期查看這些條款以了解任何變化是您的責任。
 
 ***
 
 # Czech <a name="czech"></a>
+## Podmínky služby
 
+Tento dokument obsahuje podmínky pro používání aplikace autoBlogger. Před používáním aplikace si prosím pozorně přečtěte tyto podmínky.
+
+## Důležité informace:
+
+### Generování obsahu a odpovědnost
+
+Tvůrci autoBloggeru nejsou odpovědní za obsah generovaný aplikací. autoBlogger používá umělou inteligenci třetí strany (Chat-GPT) k automatickému vytváření a publikování blogů na Shopify obchodech uživatelů. Uživatel uznává a souhlasí s tím, že obsah generovaný autoBloggerem je založen na algoritmech umělé inteligence a nelze zaručit jeho dokonalost nebo bezchybnost. Plně závisí na majiteli obchodu, aby zkontroloval a opravil jakýkoli obsah nebo obrázky.
+
+Všimněte si, že informace poskytované autoBloggerem jsou založeny na datech dostupných do data uzávěrky školení GPT. Témata vyžadující informace po tomto datu mohou vést k blogům, které nejsou přesné, protože znalosti umělé inteligence jsou omezeny na to, co bylo dostupné do tohoto data.
+
+### Optimalizace pro vyhledávače (SEO)
+
+Optimalizace pro vyhledávače (SEO) je ovlivněna mnoha faktory. AutoBlogger se zaměřuje na dvě klíčové aspekty - zpětné odkazy a blogování - ale není to všestranný nástroj pro SEO. Stejně jako u jakéhokoli SEO přístupu nejsou výsledky zaručeny a úspěch může záviset na různých faktorech, včetně konkurence, kvality obsahu a struktury webových stránek. Stejně jako u všech nástrojů SEO bychom chtěli zdůraznit, že nejsou poskytovány žádné vrácení peněz na základě výsledků SEO, které zažijete.
+
+Používáním služeb autoBloggeru uživatel uznává, že změny v návštěvnosti webových stránek mohou být způsobeny různými faktory, a autoBlogger nenese odpovědnost za takové fluktuace. Možné důvody změn v návštěvnosti vyhledávačů zahrnují, ale nejsou omezeny na aktualizace algoritmů vyhledávačů, změny webových stránek a vnější tržní síly. Je důležité poznamenat, že autoBlogger nenese odpovědnost za jakoukoli změnu v návštěvnosti nebo ukazatelích vyhledávače a nemůže garantovat specifické výsledky.
+
+### Vrácení peněz a předplatné
+
+Není nabízeno vrácení peněz za zapomenuté zrušení předplatného nebo z jiného důvodu mimo kontrolu autoBloggeru.
+
+### Program zpětných odkazů
+
+Připojením k programu zpětných odkazů souhlasíte s sdílením a publikováním URL vašeho obchodu na blogy jiných obchodů. Také souhlasíte s tím, že na vašich blocích se mohou občas objevit odkazy na jiné obchody. Upozorňujeme, že autoBlogger nenese odpovědnost za obsah jakýchkoli propojených obchodů.
+
+## Podmínky:
+
+### Přijatelné použití
+
+Uživatel souhlasí s používáním autoBloggeru pouze k zákonným účelům. Uživatel nebude používat autoBlogger k vytváření nebo šíření obsahu, který je klevetný, urážlivý nebo nelegální.
+
+### Poplatky a platby
+
+Uživatel souhlasí s platbou všech poplatků spojených s používáním autoBloggeru. Tvůrci autoBloggeru si vyhrazují právo kdykoliv změnit poplatky. Uživatel bude předem informován o jakýchkoli změnách v poplatcích.
+
+### Omezení odpovědnosti
+
+Tvůrci autoBloggeru nebudou nesou odpovědnost za žádné přímé, nepřímé, náhodné nebo následné škody vzniklé v důsledku používání nebo neschopnosti používat autoBlogger, včetně, ale neomezeně na, ztrátu zisku, dat nebo podnikání.
+
+### Ukončení
+
+Tvůrci autoBloggeru si vyhrazují právo kdykoliv ukončit přístup uživatele k autoBloggeru z jakéhokoli důvodu. Uživatel může kdykoliv ukončit své používání autoBloggeru odinstalováním aplikace ze svého obchodu na Shopify.
+
+### Zásady ochrany osobních údajů
+
+Tvůrci autoBloggeru bere ochranu osobních údajů svých uživatelů vážně. Informace poskytnuté uživatelem budou použity pouze v souladu s Pravidly ochrany osobních ú
 
 ***
 
 # Danish <a name="danish"></a>
+## Vilkår og betingelser
 
+Dette dokument angiver vilkårene for brugen af autoBlogger. Læs disse vilkår omhyggeligt, før du bruger appen.
+
+## Det vigtige:
+
+### Indholdsgenerering og ansvar
+
+Skaberne af autoBlogger er ikke ansvarlige for det indhold, der genereres af appen. autoBlogger bruger tredjeparts AI-software (Chat-GPT) til automatisk at oprette og offentliggøre blogs på brugernes Shopify-butikker. Brugeren anerkender og accepterer, at indholdet genereret af autoBlogger er baseret på AI-algoritmer og ikke kan garanteres at være perfekt eller fri for fejl. Det er fuldstændig ejerens ansvar at kontrollere og rette eventuelt indhold eller billeder.
+
+Bemærk, at oplysningerne leveret af autoBlogger er baseret på data tilgængelige op til GPT-træningscutoff-datoen. Emner, der kræver oplysninger efter den dato, kan resultere i blogs, der ikke er nøjagtige, da AI's viden er begrænset til det, der var tilgængeligt op til det tidspunkt.
+
+### Søgemaskineoptimering (SEO)
+
+Søgemaskineoptimering (SEO) påvirkes af adskillige faktorer. Selvom autoBlogger fokuserer på to afgørende aspekter - tilbagekobling og blogging - er det ikke en alt-i-en SEO-værktøj. Som enhver SEO-tilgang er resultater ikke garanteret, og succes kan variere afhængigt af forskellige faktorer, herunder konkurrence, indholds kvalitet og webstedsstruktur. Som med alle SEO-værktøjer vil vi understrege, at der ikke gives refusion baseret på de SEO-resultater, du oplever.
+
+Ved at bruge autoBlogger's tjenester anerkender du, at ændringer i søgetrafik til din butikshjemmeside kan forekomme af forskellige årsager, og autoBlogger er ikke ansvarlig for sådanne udsving. Mulige årsager til ændringer i søgetrafik inkluderer, men er ikke begrænset til, opdateringer af søgemaskinens algoritmer, ændringer i hjemmesiden og eksterne markedskræfter. Det er vigtigt at bemærke, at autoBlogger ikke bærer ansvar for eventuelle ændringer i søgetrafik eller søgemetriker og kan ikke garantere specifikke resultater.
+
+### Refusioner og abonnementer
+
+Refusioner tilbydes ikke for at glemme at annullere abonnementer eller af andre årsager uden for autoBlogger's kontrol.
+
+### Tilbagekoblingsprogram
+
+Ved at deltage i tilbagekoblingsprogrammet samtykker du i at dele og offentliggøre din butiks-URL på andre butikkers blogs. Du accepterer også, at links til andre butikker lejlighedsvis kan blive offentliggjort på dine blogs. Bemærk, at autoBlogger ikke påtager sig ansvar for indholdet i nogen linkede butikker.
+
+## Vilkår og betingelser:
+
+### Acceptabel brug
+
+Brugeren accepterer kun at bruge autoBlogger til lovlige formål. Brugeren må ikke bruge autoBlogger til at oprette eller distribuere indhold, der er æreskrænkende, stødende eller ulovligt.
+
+### Gebyrer og betaling
+
+Brugeren accepterer at betale eventuelle gebyrer forbundet med brugen af autoBlogger. Skaberne af autoBlogger forbeholder sig retten til at ændre gebyrerne til enhver tid. Brugeren vil blive underrettet på forhånd om eventuelle ændringer af gebyrerne.
+
+### Ansvarsbegrænsning
+
+Skaberne af autoBlogger vil ikke være erstatningsansvarlige for direkte, indirekte, tilfældige eller følgeskader som følge af brugen eller manglende evne til at bruge autoBlogger, herunder men ikke begrænset til tab af fortjeneste, data eller forretning.
+
+### Opsigelse
+
+Skaberne af autoBlogger forbeholder sig retten til at afbryde brugerens adgang til autoBlogger til enhver tid af enhver årsag. Brugeren kan afslutte brugen af autoBlogger når som helst ved at afinstallere appen fra deres Shopify-butik.
+
+### Fortrolighedspolitik
+
+Skaberne af autoBlogger tager brugernes privatliv alvorligt. Vi vil kun bruge de oplysninger, brugeren giver, i overensstemmelse med Shopify's fortrolighedspolitik. Ved at bruge autoBlogger accepterer brugeren vilkårene i vores Shopify fortrolighedspolitik.
+
+### Ansvarsfraskrivelse
+
+autoBlogger leveres "som det er" uden nogen garantier, udtrykte eller underforståede. Skaberne af autoBlogger giver ingen erklæringer eller garantier af nogen art, herunder, men ikke begrænset til, nøjagtigheden eller fuldstændigheden af indholdet genereret af autoBlogger.
+
+### Indemnifikation
+
+Brugeren accepterer at holde skaberne af autoBlogger skadesløse for eventuelle krav, skader, udgifter og ansvar, herunder rimelige advokatsalærer, der opstår i forbindelse med brugerens brug af autoBlogger eller enhver overtrædelse af disse vilkår og betingelser.
+
+### Ændring af vilkår og betingelser
+
+Skaberne af autoBlogger forbeholder sig ret til at ændre disse vilkår og betingelser til enhver tid. Brugeren vil blive underrettet om eventuelle ændringer af disse vilkår og betingelser.
+
+### Lovvalg og jurisdiktion
+
+Disse vilkår og betingelser er underlagt og fortolkes i overensstemmelse med lovene i det jurisdiktionssted, hvor skaberne af autoBlogger er beliggende. Brugeren accepterer at underkaste sig de eksklusive domstole i
 
 ***
 
 # Dutch <a name="dutch"></a>
+## Algemene Voorwaarden
 
+Dit document beschrijft de algemene voorwaarden voor het gebruik van autoBlogger. Lees deze voorwaarden zorgvuldig door voordat je de app gaat gebruiken.
+
+## Belangrijke Zaken:
+
+### Inhoudsgeneratie en Aansprakelijkheid
+
+De makers van autoBlogger zijn niet verantwoordelijk voor de inhoud die door de app wordt gegenereerd. autoBlogger maakt gebruik van AI-software van derden (Chat-GPT) om automatisch blogs te maken en te publiceren op de Shopify-winkels van gebruikers. De gebruiker erkent en stemt ermee in dat de inhoud die door autoBlogger wordt gegenereerd, gebaseerd is op AI-algoritmes en niet gegarandeerd perfect of vrij van fouten is. Het is volledig de verantwoordelijkheid van de eigenaar van de winkel om de gegenereerde inhoud of afbeeldingen te controleren en te corrigeren.
+
+Let op: de informatie die door autoBlogger wordt verstrekt, is gebaseerd op gegevens die beschikbaar waren tot aan de GPT-trainingsafsluitdatum. Onderwerpen die informatie vereisen na die datum kunnen leiden tot blogs die niet accuraat zijn, omdat de kennis van de AI beperkt is tot wat beschikbaar was tot dat moment.
+
+### Zoekmachineoptimalisatie (SEO)
+
+Zoekmachineoptimalisatie (SEO) wordt beïnvloed door tal van factoren. Hoewel autoBlogger zich richt op twee cruciale aspecten - linkbuilding en bloggen - is het geen alles-in-één SEO-tool. Zoals bij elke SEO-benadering, zijn resultaten niet gegarandeerd, en succes kan variëren afhankelijk van verschillende factoren, waaronder concurrentie, kwaliteit van de inhoud en de structuur van de website. Zoals bij alle SEO-tools willen we benadrukken dat er geen restituties worden verstrekt op basis van de SEO-resultaten die je ervaart.
+
+Door gebruik te maken van de diensten van autoBlogger erken je dat veranderingen in het zoekverkeer naar de website van je winkel kunnen optreden om verschillende redenen, en autoBlogger is niet verantwoordelijk voor dergelijke schommelingen. Mogelijke redenen voor veranderingen in zoekverkeer zijn onder meer, maar zijn niet beperkt tot, updates van zoekmachine-algoritmes, wijzigingen aan de website en externe marktkrachten. Het is belangrijk op te merken dat autoBlogger geen verantwoordelijkheid draagt voor eventuele veranderingen in zoekverkeer of zoekstatistieken en geen specifieke resultaten kan garanderen.
+
+### Restituties en Abonnementen
+
+Restituties worden niet aangeboden voor het vergeten annuleren van abonnementen of om welke andere reden dan ook buiten de controle van autoBlogger.
+
+### Backlink Programma
+
+Door deel te nemen aan het backlink-programma stem je in met het delen en publiceren van de URL van je winkel op de blogs van andere winkels. Je gaat ook akkoord met het feit dat links naar andere winkels af en toe op jouw blogs kunnen worden geplaatst. Let op: autoBlogger aanvaardt geen verantwoordelijkheid voor de inhoud van gelinkte winkels.
+
+## Voorwaarden:
+
+### Acceptabel Gebruik
+
+De gebruiker stemt ermee in autoBlogger alleen voor wettige doeleinden te gebruiken. De gebruiker zal autoBlogger niet gebruiken om inhoud te creëren of te verspreiden die lasterlijk, beledigend of illegaal is.
+
+### Kosten en Betaling
+
+De gebruiker stemt ermee in om eventuele kosten die verbonden zijn aan het gebruik van autoBlogger te betalen. De makers van autoBlogger behouden zich het recht voor om de kosten op elk moment te wijzigen. De gebruiker wordt op de hoogte gebracht van eventuele wijzigingen in de kosten.
+
+### Aansprakelijkheidsbeperking
+
+De makers van autoBlogger zijn niet aansprakelijk voor directe, indirecte, incidentele of gevolgschade als gevolg van het gebruik of onvermogen om autoBlogger te gebruiken, waaronder maar niet beperkt tot winstderving, gegevensverlies of bedrijfsonderbreking.
+
+### Beëindiging
+
+De makers van autoBlogger behouden zich het recht voor om de toegang van de gebruiker tot autoBlogger op elk moment om welke reden dan ook te beëindigen. De gebruiker kan het gebruik van autoBlogger op elk moment beëindigen door de app te deïnstalleren uit hun Shopify-winkel.
+
+### Privacybeleid
+
+De makers van autoBlogger nemen de privacy van onze gebruikers serieus. We zullen de verstrekte informatie alleen gebruiken in overeenstemming met het privacybeleid van Shopify. Door autoBlogger te gebruiken, stemt de gebruiker in met de voorwaarden van ons Shopify privacybeleid.
+
+### Disclaimer
+
+autoBlogger wordt geleverd "zoals het is" zonder enige garanties, expliciet of impliciet. De makers van autoBlogger doen geen uitspraken of garanties van welke aard dan ook, inclusief maar niet beperkt tot de nauwkeurigheid of volledigheid van de door autoBlogger gegenereerde inhoud.
+
+### Vrijwaring
+
+De gebruiker stemt ermee in de makers van autoBlogger te vrijwaren en schadeloos te stellen tegen alle vorderingen, schade, kosten en aansprakelijkheden, inclusief redelijke advocatenkosten, voortvloeiend uit of in verband met het gebruik van autoBlogger of enige schending van deze voorwaarden en bepalingen.
+
+### Wijziging van Voorwaarden
+
+De makers van autoBlogger behouden zich het recht voor om deze voorwaarden op elk moment te wijzigen. De gebruiker wordt op de hoogte gesteld van eventuele wijzigingen in deze voorwaarden.
+
+### Toepasselijk Recht en Jurisdictie
+
+Deze voorwaarden vallen onder en worden geïnterpreteerd volgens de wetten van de jurisdictie waar de makers van autoBlogger zich bevinden. De gebruiker stemt ermee in zich te onderwerpen aan de exclusieve jurisdictie van de rechtbanken in die jurisdictie.
 
 ***
 
 # Finnish <a name="finnish"></a>
+## Käyttöehdot
 
+Tämä asiakirja määrittelee ehdot autoBloggerin käytölle. Lue nämä ehdot huolellisesti ennen sovelluksen käyttöä.
+
+## Tärkeää:
+
+### Sisällöntuotanto ja Vastuu
+
+autoBloggerin luojat eivät ole vastuussa sovelluksen generoimasta sisällöstä. autoBlogger käyttää kolmannen osapuolen tekoälyohjelmistoa (Chat-GPT) automaattisten blogien luomiseen ja julkaisuun käyttäjien Shopify-kaupoissa. Käyttäjä tunnustaa ja hyväksyy, että autoBloggerin generoima sisältö perustuu tekoälyalgoritmeihin eikä sitä voida taata täydelliseksi tai virheettömäksi. Kaupan omistajan vastuulla on tarkistaa ja korjata mahdolliset sisällöt tai kuvat.
+
+Huomaa, että autoBloggerin tarjoama tieto perustuu GPT-koulutuksen katkaisupäivämäärään asti saatavilla oleviin tietoihin. Päivämäärän jälkeen tarvittavat tiedot voivat johtaa epätarkkoihin blogeihin, koska tekoälyn tietämys on rajoitettu siihen, mitä oli saatavilla siihen mennessä.
+
+### Hakukoneoptimointi (SEO)
+
+Hakukoneoptimointi (SEO) riippuu monista tekijöistä. Vaikka autoBlogger keskittyy kahteen oleelliseen osa-alueeseen - linkittämiseen ja bloggaamiseen - se ei ole kaikenkattava SEO-työkalu. Kuten millä tahansa SEO-lähestymistavalla, tuloksia ei taata, ja menestys voi vaihdella eri tekijöistä riippuen, kuten kilpailu, sisällön laatu ja verkkosivuston rakenne. Kuten kaikkien SEO-työkalujen kanssa, on korostettava, että mitään hyvityksiä ei tarjota SEO-tulosten perusteella.
+
+autoBloggerin palveluja käyttämällä hyväksyt sen, että muutokset hakuliikenteessä verkkosivustollesi voivat tapahtua eri tekijöiden vuoksi, eikä autoBlogger ole vastuussa tällaisista vaihteluista. Mahdollisia syitä hakuliikenteen muutoksiin ovat muun muassa hakukonealgoritmien päivitykset, verkkosivuston muutokset ja ulkoiset markkinavoimat. On tärkeää huomata, että autoBlogger ei ole vastuussa mahdollisista muutoksista hakuliikenteessä tai hakumittareissa eikä voi taata tiettyjä tuloksia.
+
+### Palautukset ja Tilaukset
+
+Palautuksia ei tarjota tilauksen unohtamisen tai muiden autoBloggerin hallinnan ulkopuolisten syiden vuoksi.
+
+### Takaisinlinkkiohjelma
+
+Osallistumalla takaisinlinkkiohjelmaan suostut jakamaan ja julkaisemaan kaupan URL-osoitteesi muiden kauppojen blogeissa. Suostut myös siihen, että toisten kauppojen linkkejä voi ajoittain näkyä blogeissasi. Huomaa, että autoBlogger ei ole vastuussa liitettyjen kauppojen sisällöstä.
+
+## Ehdot:
+
+### Hyväksyttävä käyttö
+
+Käyttäjä sitoutuu käyttämään autoBloggeria vain laillisiin tarkoituksiin. Käyttäjä ei saa käyttää autoBloggeria luodakseen tai jakamaan herjaavaa, loukkaavaa tai laitonta sisältöä.
+
+### Maksut ja Maksu
+
+Käyttäjä sitoutuu maksamaan autoBloggerin käytöstä aiheutuvat maksut. autoBloggerin luojilla on oikeus muuttaa maksuja milloin tahansa, ja käyttäjä ilmoitetaan etukäteen mahdollisista muutoksista.
+
+### Vastuunrajoitus
+
+autoBloggerin luojat eivät ole vastuussa suorista, epäsuorista, satunnaisista tai välillisistä vahingoista, jotka johtuvat autoBloggerin käytöstä tai sen käytön mahdottomuudesta, mukaan lukien mutta ei rajoittuen voiton menetykseen, tietojen menetykseen tai liiketoiminnan keskeytykseen.
+
+### Päättäminen
+
+autoBloggerin luojilla on oikeus lopettaa käyttäjän pääsy autoBloggeriin milloin tahansa mistä tahansa syystä. Käyttäjä voi lopettaa autoBloggerin käytön milloin tahansa poistamalla sovelluksen Shopify-kaupastaan.
+
+### Tietosuojakäytäntö
+
+autoBloggerin luojat suhtautuvat käyttäjien yksityisyyteen vakavasti. Käytämme käyttäjän antamia tietoja vain Shopifyn tietosuojakäytännön mukaisesti. Käyttämällä autoBloggeria käyttäjä hyväksyy Shopifyn tietosuojakäytännön ehdot.
+
+### Vastuuvapauslauseke
+
+autoBlogger toimitetaan "sellaisenaan" ilman mitään takuita, ilmaistuja tai epäsuoria. autoBloggerin luojat eivät tee mitään lausuntoja tai takuita mistään, mukaan lukien mutta ei rajoittuen autoBloggerin generoiman sisällön tarkkuus tai täydellisyys.
+
+### Vapautus
+
+Käyttäjä sitoutuu korvaamaan ja pitämään vahingoittumattomana autoBloggerin
 
 ***
 
 # French <a name="french"></a>
+## Conditions Générales
 
+Ce document définit les termes et conditions d'utilisation de autoBlogger. Veuillez lire attentivement ces termes avant d'utiliser l'application.
+
+## Les Points Importants:
+
+### Génération de Contenu et Responsabilité
+
+Les créateurs de autoBlogger ne sont pas responsables du contenu généré par l'application. autoBlogger utilise un logiciel d'IA tiers (Chat-GPT) pour créer et publier automatiquement des blogs sur les boutiques Shopify des utilisateurs. L'utilisateur reconnaît et accepte que le contenu généré par autoBlogger est basé sur des algorithmes d'IA et ne peut être garanti comme parfait ou exempt d'erreurs. Il incombe entièrement au propriétaire du magasin de vérifier et de corriger tout contenu ou image.
+
+Veuillez noter que les informations fournies par autoBlogger sont basées sur les données disponibles jusqu'à la date de coupure de l'entraînement de GPT. Les sujets nécessitant des informations après cette date peuvent entraîner des blogs qui ne sont pas exacts, car la connaissance de l'IA est limitée à ce qui était disponible jusqu'à ce moment.
+
+### Optimisation pour les Moteurs de Recherche (SEO)
+
+L'optimisation pour les moteurs de recherche (SEO) est influencée par de nombreux facteurs. Bien que autoBlogger se concentre sur deux aspects cruciaux - la création de liens et la rédaction de blogs - il ne s'agit pas d'un outil SEO tout-en-un. Comme toute approche SEO, les résultats ne sont pas garantis, et le succès peut varier en fonction de divers facteurs, notamment la concurrence, la qualité du contenu et la structure du site Web. Comme avec tous les outils SEO, nous tenons à souligner qu'aucun remboursement ne sera effectué en fonction des résultats SEO que vous obtenez.
+
+En utilisant les services de autoBlogger, vous reconnaissez que des changements dans le trafic de recherche vers votre site Web peuvent survenir en raison de divers facteurs, et autoBlogger n'est pas responsable de telles fluctuations. Les raisons possibles de changements dans le trafic de recherche comprennent, sans s'y limiter, les mises à jour des algorithmes des moteurs de recherche, les modifications du site Web et les forces du marché externe. Il est important de noter que autoBlogger décline toute responsabilité pour tout changement dans le trafic de recherche ou les métriques de recherche et ne peut garantir des résultats spécifiques.
+
+### Remboursements et Abonnements
+
+Aucun remboursement n'est offert pour l'oubli d'annuler les abonnements ou pour toute autre raison en dehors du contrôle de autoBlogger.
+
+### Programme de Liens Retour (Backlink)
+
+En rejoignant le programme de liens retour, vous consentez au partage et à la publication de l'URL de votre magasin sur les blogs d'autres magasins. Vous acceptez également que des liens vers d'autres magasins puissent occasionnellement être publiés sur vos blogs. Veuillez noter que autoBlogger décline toute responsabilité pour le contenu des magasins liés.
+
+## Termes et Conditions:
+
+### Utilisation Acceptable
+
+L'utilisateur accepte d'utiliser autoBlogger uniquement à des fins légales. L'utilisateur ne doit pas utiliser autoBlogger pour créer ou distribuer un contenu diffamatoire, offensant ou illégal.
+
+### Frais et Paiement
+
+L'utilisateur accepte de payer tous les frais associés à l'utilisation de autoBlogger. Les créateurs de autoBlogger se réservent le droit de modifier les frais à tout moment. L'utilisateur sera informé à l'avance de toute modification des frais.
+
+### Limitation de Responsabilité
+
+Les créateurs de autoBlogger ne seront pas responsables de tout dommage direct, indirect, accidentel ou consécutif découlant de l'utilisation ou de l'incapacité d'utiliser autoBlogger, y compris, mais sans s'y limiter, la perte de bénéfices, de données ou d'activité commerciale.
+
+### Résiliation
+
+Les créateurs de autoBlogger se réservent le droit de mettre fin à l'accès de l'utilisateur à autoBlogger à tout moment et pour toute raison. L'utilisateur peut mettre fin à son utilisation de autoBlogger à tout moment en désinstallant l'application de sa boutique Shopify.
+
+### Politique de Confidentialité
+
+Les créateurs de autoBlogger prennent la vie privée de nos utilisateurs au sérieux. Nous n'utiliserons les informations fournies par l'utilisateur qu'en conformité avec la Politique de Confidentialité de Shopify. En utilisant autoBlogger, l'utilisateur accepte les termes de notre Politique de Confidentialité Shopify.
+
+### Avertissement
+
+autoBlogger est fourni "tel quel" sans aucune garantie, expresse ou implicite. Les créateurs de autoBlogger ne font aucune déclaration ou garantie d'aucune sorte, y compris, mais sans s'y limiter, l'exactitude ou l'exhaustivité du contenu généré par autoBlogger.
+
+### Indemnisation
+
+L'utilisateur accepte d'indemniser et de dégager de toute responsabilité les créateurs de autoBlogger de toutes réclamations, dommages, frais et responsabilités, y compris les honoraires raisonnables d'avocat, découlant de l'utilisation de autoBlogger ou de toute violation de ces termes et conditions.
+
+### Modification des Termes et Conditions
+
+Les créateurs de autoBlogger se réservent le droit de modifier ces termes et conditions à tout moment. L'utilisateur sera informé de toute modification de ces termes et conditions.
+
+### Droit Applicable et Juridiction
+
+Ces termes et conditions sont régis par et interprétés conformément aux lois de la juridiction où les créateurs de autoBlogger sont situés. L'utilisateur accepte de se soumettre à la juridiction exclusive des tribunaux de cette juridiction.
 
 ***
 
 # German <a name="german"></a>
+## Allgemeine Geschäftsbedingungen
 
+Dieses Dokument legt die Allgemeinen Geschäftsbedingungen für die Nutzung von autoBlogger fest. Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie die App verwenden.
+
+## Die Wichtigen Dinge:
+
+### Inhaltsgenerierung und Haftung
+
+Die Ersteller von autoBlogger sind nicht für den von der App generierten Inhalt verantwortlich. AutoBlogger verwendet KI-Software von Drittanbietern (Chat-GPT), um automatisch Blogs in den Shopify-Shops der Benutzer zu erstellen und zu veröffentlichen. Der Benutzer erkennt an und stimmt zu, dass der von autoBlogger generierte Inhalt auf KI-Algorithmen basiert und nicht als perfekt oder fehlerfrei garantiert werden kann. Es liegt vollständig in der Verantwortung des Ladenbesitzers, jeglichen Inhalt oder Bilder zu überprüfen und zu korrigieren.
+
+Bitte beachten Sie, dass die von autoBlogger bereitgestellten Informationen auf Daten bis zum GPT-Trainingsabschlussdatum basieren. Themen, die Informationen nach diesem Datum erfordern, können zu Blogs führen, die nicht genau sind, da das Wissen der KI auf das bis zu diesem Zeitpunkt verfügbare beschränkt ist.
+
+### Suchmaschinenoptimierung (SEO)
+
+Suchmaschinenoptimierung (SEO) wird von zahlreichen Faktoren beeinflusst. Während sich autoBlogger auf zwei entscheidende Aspekte konzentriert - Backlinking und Blogging - ist es keine All-in-One-SEO-Tool. Wie bei jedem SEO-Ansatz sind Ergebnisse nicht garantiert, und der Erfolg kann je nach verschiedenen Faktoren variieren, einschließlich Konkurrenz, Qualität des Inhalts und Struktur der Website. Wie bei allen SEO-Tools möchten wir betonen, dass keine Rückerstattungen aufgrund der von Ihnen erlebten SEO-Ergebnisse gewährt werden.
+
+Durch die Nutzung der Dienste von autoBlogger erklären Sie sich damit einverstanden, dass Änderungen im Suchverkehr auf Ihrer Ladenwebsite auf verschiedene Faktoren zurückzuführen sein können und autoBlogger nicht für solche Schwankungen verantwortlich ist. Mögliche Gründe für Änderungen im Suchverkehr sind unter anderem, aber nicht ausschließlich, Updates von Suchmaschinenalgorithmen, Änderungen an der Website und externe Marktkräfte. Es ist wichtig zu beachten, dass autoBlogger keine Verantwortung für Änderungen im Suchverkehr oder bei Suchmetriken übernimmt und keine spezifischen Ergebnisse garantieren kann.
+
+### Rückerstattungen und Abonnements
+
+Rückerstattungen werden nicht angeboten, wenn das Abonnement vergessen wurde zu kündigen oder aus anderen Gründen außerhalb der Kontrolle von autoBlogger.
+
+### Backlink-Programm
+
+Durch die Teilnahme am Backlink-Programm stimmen Sie der Weitergabe und Veröffentlichung Ihrer Shop-URL auf den Blogs anderer Shops zu. Sie stimmen auch zu, dass Links zu anderen Shops gelegentlich in Ihren Blogs veröffentlicht werden können. Bitte beachten Sie, dass autoBlogger keine Verantwortung für den Inhalt verlinkter Shops übernimmt.
+
+## Bedingungen:
+
+### Akzeptable Nutzung
+
+Der Benutzer verpflichtet sich, autoBlogger nur zu legalen Zwecken zu nutzen. Der Benutzer wird autoBlogger nicht dazu verwenden, Inhalte zu erstellen oder zu verbreiten, die diffamierend, beleidigend oder illegal sind.
+
+### Gebühren und Zahlung
+
+Der Benutzer verpflichtet sich, alle mit der Nutzung von autoBlogger verbundenen Gebühren zu zahlen. Die Ersteller von autoBlogger behalten sich das Recht vor, die Gebühren jederzeit zu ändern. Der Benutzer wird im Voraus über etwaige Änderungen an den Gebühren informiert.
+
+### Haftungsbeschränkung
+
+Die Ersteller von autoBlogger haften nicht für direkte, indirekte, zufällige oder Folgeschäden, die sich aus der Nutzung oder Unfähigkeit zur Nutzung von autoBlogger ergeben, einschließlich, aber nicht beschränkt auf Gewinnverlust, Datenverlust oder Betriebsunterbrechung.
+
+### Kündigung
+
+Die Ersteller von autoBlogger behalten sich das Recht vor, den Zugang des Benutzers zu autoBlogger jederzeit aus jedem Grund zu beenden. Der Benutzer kann die Nutzung von autoBlogger jederzeit beenden, indem er die App aus seinem Shopify-Shop deinstalliert.
+
+### Datenschutzrichtlinie
+
+Die Ersteller von autoBlogger nehmen den Datenschutz unserer Benutzer ernst. Wir werden die vom Benutzer bereitgestellten Informationen nur gemäß der Datenschutzrichtlinie von Shopify verwenden. Durch die Nutzung von autoBlogger stimmt der Benutzer den Bedingungen unserer Shopify-Datenschutzrichtlinie zu.
+
+### Haftungsausschluss
+
+autoBlogger wird "wie besehen" ohne jegliche Gewährleistungen geliefert, ausdrücklich oder stillschweigend. Die Ersteller von autoBlogger machen keine Darstellungen oder Gewährleistungen jeglicher Art, einschließlich, aber nicht beschränkt auf die Genauigkeit oder Vollständigkeit des von autoBlogger generierten Inhalts.
+
+### Freistellung
+
+Der Benutzer erklärt sich damit einverstanden, die Ersteller von autoBlogger von jeglichen Ansprüchen, Schäden, Kosten und Haftungen, einschließlich angemessener Anwaltsgebühren, im Zusammenhang mit der Nutzung von autoBlogger oder einer Verletzung dieser Bedingungen freizustellen.
+
+### Änderung der Bedingungen
+
+Die Ersteller von autoBlogger behalten sich das Recht vor, diese Bedingungen jederzeit zu ändern. Der Benutzer wird über etwaige Änderungen dieser Bedingungen informiert.
+
+### Anwendbares Recht und Gerichtsstand
+
+Diese Bedingungen unterliegen den Gesetzen und werden gemäß den Gesetzen der Gerichtsbarkeit interpretiert, in der sich die Ersteller von autoBlogger befinden. Der Benutzer erklärt sich damit einverstanden, sich der ausschließlichen Gerichtsbarkeit der Gerichte in dieser Gerichtsbarkeit zu unterwerfen.
 
 ***
 
 # Italian <a name="italian"></a>
+## Termini e Condizioni
 
+Questo documento stabilisce i termini e le condizioni per l'utilizzo di autoBlogger. Leggere attentamente questi termini prima di utilizzare l'app.
+
+## Le Cose Importanti:
+
+### Generazione di Contenuti e Responsabilità
+
+Gli autori di autoBlogger non sono responsabili del contenuto generato dall'app. autoBlogger utilizza un software di intelligenza artificiale di terze parti (Chat-GPT) per creare e pubblicare automaticamente blog nei negozi Shopify degli utenti. L'utente riconosce e accetta che il contenuto generato da autoBlogger si basa su algoritmi di intelligenza artificiale e non può essere garantito come perfetto o privo di errori. È completamente responsabilità del proprietario del negozio verificare e correggere eventuali contenuti o immagini.
+
+Si prega di notare che le informazioni fornite da autoBlogger si basano sui dati disponibili fino alla data di interruzione dell'addestramento di GPT. Argomenti che richiedono informazioni dopo quella data possono portare a blog che non sono accurati, poiché la conoscenza dell'IA è limitata a quanto era disponibile fino a quel momento.
+
+### Ottimizzazione per i Motori di Ricerca (SEO)
+
+L'ottimizzazione per i motori di ricerca (SEO) è influenzata da numerosi fattori. Sebbene autoBlogger si concentri su due aspetti cruciali - la creazione di backlink e la scrittura di blog - non è uno strumento SEO completo. Come con qualsiasi approccio SEO, i risultati non sono garantiti e il successo può variare a seconda di vari fattori, tra cui la concorrenza, la qualità del contenuto e la struttura del sito web. Come con tutti gli strumenti SEO, vogliamo sottolineare che non verranno forniti rimborsi basati sui risultati SEO che si ottengono.
+
+Utilizzando i servizi di autoBlogger, si riconosce che possono verificarsi cambiamenti nel traffico di ricerca verso il proprio sito Web a causa di vari fattori, e autoBlogger non è responsabile di tali fluttuazioni. Le possibili ragioni dei cambiamenti nel traffico di ricerca includono, ma non sono limitate a, aggiornamenti degli algoritmi dei motori di ricerca, modifiche al sito Web e forze di mercato esterne. È importante notare che autoBlogger declina ogni responsabilità per qualsiasi cambiamento nel traffico di ricerca o nelle metriche di ricerca e non può garantire risultati specifici.
+
+### Rimborsi e Abbonamenti
+
+Non sono previsti rimborsi per l'oblio di cancellare gli abbonamenti o per qualsiasi altro motivo al di fuori del controllo di autoBlogger.
+
+### Programma di Backlink
+
+Partecipando al programma di backlink, si acconsente alla condivisione e pubblicazione dell'URL del proprio negozio sui blog di altri negozi. Si accetta anche che link ad altri negozi possano occasionalmente essere pubblicati nei propri blog. Si prega di notare che autoBlogger declina ogni responsabilità per il contenuto dei negozi collegati.
+
+## Termini e Condizioni:
+
+### Utilizzo Accettabile
+
+L'utente accetta di utilizzare autoBlogger solo per scopi leciti. L'utente non utilizzerà autoBlogger per creare o distribuire contenuti diffamatori, offensivi o illegali.
+
+### Tariffe e Pagamenti
+
+L'utente accetta di pagare eventuali tariffe associate all'utilizzo di autoBlogger. Gli autori di autoBlogger si riservano il diritto di modificare le tariffe in qualsiasi momento. L'utente verrà informato in anticipo di eventuali modifiche alle tariffe.
+
+### Limitazione di Responsabilità
+
+Gli autori di autoBlogger non saranno responsabili per eventuali danni diretti, indiretti, incidentali o conseguenti derivanti dall'uso o dall'incapacità di utilizzare autoBlogger, compresi, ma non solo, la perdita di profitti, dati o attività commerciali.
+
+### Risoluzione
+
+Gli autori di autoBlogger si riservano il diritto di interrompere l'accesso dell'utente a autoBlogger in qualsiasi momento per qualsiasi motivo. L'utente può interrompere l'utilizzo di autoBlogger in qualsiasi momento disinstallando l'app dal proprio negozio Shopify.
+
+### Informativa sulla Privacy
+
+Gli autori di autoBlogger prendono sul serio la privacy dei nostri utenti. Utilizzeremo le informazioni fornite dall'utente solo in conformità con l'Informativa sulla Privacy di Shopify. Utilizzando autoBlogger, l'utente accetta i termini della nostra Informativa sulla Privacy di Shopify.
+
+### Disclaimer
+
+autoBlogger viene fornito "così com'è" senza alcuna garanzia, espressa o implicita. Gli autori di autoBlogger non fanno dichiarazioni o garanzie di alcun genere, compresa, ma non solo, l'accuratezza o la completezza del contenuto generato da autoBlogger.
+
+### Indennizzo
+
+L'utente accetta di indennizzare e manlevare gli autori di autoBlogger da qualsiasi e ogni pretesa, danno, spesa e responsabilità, comprese ragionevoli spese legali, derivanti dall'uso di autoBlogger o da una violazione di questi termini e condizioni.
+
+### Modifica dei Termini e Condizioni
+
+Gli autori di autoBlogger si riservano il diritto di modificare questi termini e condizioni in qualsiasi momento. L'utente verrà informato di eventuali modifiche a questi termini e condizioni.
+
+### Legge Applicabile e Giurisdizione
+
+Questi termini e condizioni sono disciplinati e interpretati in conformità con le leggi della giurisdizione in cui si trovano gli autori di autoBlogger. L'utente accetta di sottoporsi alla giurisdizione esclusiva dei tribunali di quella giurisdizione.
 
 ***
 
 # Japanese <a name="japanese"></a>
+## 利用規約
 
+この文書は、autoBloggerの利用に関する利用規約を定めています。アプリを使用する前に、これらの条件をよくお読みください。
+
+## 重要事項：
+
+### コンテンツ生成と責任
+
+autoBloggerの作成者は、アプリによって生成されたコンテンツについて責任を負いません。autoBloggerは、ユーザーのShopifyストアに自動的にブログを作成および投稿するために第三者のAIソフトウェア（Chat-GPT）を使用しています。ユーザーは、autoBloggerによって生成されたコンテンツがAIアルゴリズムに基づいており、完璧またはエラーがないことを保証できないことを認識し同意します。コンテンツや画像の確認および修正は完全にストアオーナーの責任です。
+
+autoBloggerが提供する情報は、GPTトレーニングのカットオフ日までのデータに基づいています。その日以降の情報が必要なトピックは、AIの知識がその時点までに利用可能だったものに限られるため、正確でないブログを生じる可能性があります。
+
+### 検索エンジン最適化（SEO）
+
+検索エンジン最適化（SEO）は多くの要因に影響されます。autoBloggerはバックリンクとブログの2つの重要な側面に焦点を当てていますが、それはオールインワンのSEOツールではありません。他のSEOアプローチと同様に、結果は保証されず、競争、コンテンツの品質、ウェブサイトの構造などさまざまな要因によって成功が異なります。すべてのSEOツールと同様に、得られるSEOの結果に基づいて返金は行われません。
+
+autoBloggerのサービスを利用することで、ストアのウェブサイトへの検索トラフィックの変化が発生する可能性があり、その変動に対してautoBloggerは責任を負いません。検索トラフィックの変化の原因には、検索エンジンのアルゴリズムの更新、ウェブサイトの変更、外部の市場要因などが含まれます。autoBloggerは検索トラフィックや検索メトリクスの変化に対する責任を一切負わず、特定の結果を保証することはできません。
+
+### 返金とサブスクリプション
+
+autoBloggerの制御外の理由でサブスクリプションをキャンセルし忘れた場合や他の理由に対しては、返金は提供されません。
+
+### バックリンクプログラム
+
+バックリンクプログラムに参加することで、他のストアのブログにおいて貴店のURLが共有・掲載されることに同意します。同時に、貴店のブログには他のストアへのリンクが時折掲載される可能性があります。autoBloggerはリンクされたストアのコンテンツに対する責任を負いません。
+
+## 利用規約：
+
+### 適切な利用
+
+ユーザーはautoBloggerを合法的な目的にのみ使用することに同意します。ユーザーは誹謗中傷的、攻撃的、または違法なコンテンツを作成または配信するためにautoBloggerを使用しないことに同意します。
+
+### 料金と支払い
+
+ユーザーはautoBloggerの利用に関連する料金を支払うことに同意します。autoBloggerの制作者は料金をいつでも変更する権利を留保します。料金の変更がある場合、ユーザーには事前に通知されます。
+
+### 責任の制限
+
+autoBloggerの制作者は、autoBloggerの使用または使用できなさから発生する利益の喪失、データの喪失、または事業の中断など、直接的、間接的、偶発的、または結果的な損害について一切責任を負いません。
+
+### 終了
+
+autoBloggerの制作者は、いかなる理由においてもユーザーのautoBloggerへのアクセスをいつでも終了する権利を留保します。ユーザーはいつでも自分のShopifyストアからアプリをアンインストールすることでautoBloggerの使用を終了できます。
+
+### プライバシーポリシー
+
+autoBloggerの制作者はユーザーのプライバシーを真剣に考えています。ユーザーが提供した情報はShopifyのプライバシーポリシーに従ってのみ使用されます。autoBloggerの使用により、ユーザーはShopifyのプライバシーポリシーの条件に同意するものとします。
+
+### 免責事項
+
+autoBloggerは明示的または黙示的な保証なしに「現状のまま」提供されます。autoBloggerの制作者は、autoBloggerによって生成されたコンテンツの正確性や完全性を含む、いかなる種類の表明または保証も行いません。
+
+### 免責
+
+ユーザーは、autoBloggerの使用またはこれらの利用規約の違反に起因する、一切の請求、損害、経費、および責任、合理的な弁護士費用を含む、についてautoBloggerの制作者を損害賠償し、かつ無害に保つことに同意します。
+
+### 利用規約の変更
+
+autoBloggerの制作者は、これらの利用規約をいつでも変更する権利を留保します。ユーザーにはこれらの利用規約の変更が通知されます。
+
+### 適用法と管轄権
+
+これらの利用規約はautoBloggerの制作者が所在する管轄区域の法律に従って解釈されます。ユーザーはその管轄区域の裁判所の専属の管轄権を受け入れるものとします。
 
 ***
 
 # Korean <a name="korean"></a>
+## 이용 약관
 
+이 문서는 autoBlogger 사용에 대한 이용 약관을 개요합니다. 앱을 사용하기 전에 이러한 조건을 주의 깊게 읽어보십시오.
+
+## 중요한 사항:
+
+### 콘텐츠 생성 및 책임
+
+autoBlogger의 창조자는 앱에서 생성된 콘텐츠에 대한 책임이 없습니다. autoBlogger는 사용자의 Shopify 스토어에 자동으로 블로그를 생성하고 게시하기 위해 3자 AI 소프트웨어(Chat-GPT)를 사용합니다. 사용자는 autoBlogger에서 생성된 콘텐츠가 AI 알고리즘을 기반으로 하며 완벽하거나 오류가 없다는 것을 보장할 수 없다는 점을 인식하고 동의합니다. 모든 콘텐츠나 이미지를 확인하고 수정하는 것은 전적으로 스토어 소유자의 책임입니다.
+
+autoBlogger가 제공하는 정보는 GPT 교육 중단 날짜까지의 데이터를 기반으로 합니다. 그 날짜 이후의 정보가 필요한 주제는 AI의 지식이 해당 시점까지만 제한되어 있기 때문에 정확하지 않은 블로그를 생성할 수 있습니다.
+
+### 검색 엔진 최적화 (SEO)
+
+검색 엔진 최적화(SEO)는 다양한 요인에 영향을 받습니다. autoBlogger는 백링크 및 블로깅이라는 두 가지 중요한 측면에 중점을 두지만, 그것은 완벽한 SEO 도구가 아닙니다. 다른 SEO 접근 방식과 마찬가지로 결과는 보장되지 않으며 성공은 경쟁, 콘텐츠 품질, 웹 사이트 구조 등 다양한 요인에 따라 다를 수 있습니다. 모든 SEO 도구와 마찬가지로 어떠한 SEO 결과에 기반한 환불도 제공되지 않습니다.
+
+autoBlogger 서비스를 이용함으로써 사용자의 스토어 웹사이트의 검색 트래픽에 변화가 발생할 수 있으며, 이러한 변동에 대한 autoBlogger의 책임은 없습니다. 검색 트래픽의 변화 원인으로는 검색 엔진 알고리즘 업데이트, 웹 사이트 변경 및 외부 시장 동향 등이 포함될 수 있습니다. autoBlogger는 검색 트래픽이나 검색 지표의 변화에 대한 책임을 지지 않으며 특정 결과를 보장할 수 없습니다.
+
+### 환불 및 구독
+
+autoBlogger의 제어 범위를 벗어난 이유로 구독을 취소하는 경우 또는 다른 autoBlogger의 통제 범위 외의 이유로는 환불이 제공되지 않습니다.
+
+### 백링크 프로그램
+
+백링크 프로그램에 참여함으로써 자신의 스토어 URL이 다른 스토어의 블로그에 공유되고 게시될 수 있음에 동의합니다. 또한 자신의 블로그에는 가끔 다른 스토어로의 링크가 게시될 수 있습니다. autoBlogger는 연결된 스토어의 콘텐츠에 대한 책임을 지지 않습니다.
+
+## 이용 조건:
+
+### 적절한 사용
+
+사용자는 autoBlogger를 합법적인 목적으로만 사용하기로 동의합니다. 사용자는 autoBlogger를 사용하여 중상적이거나 모욕적이거나 불법적인 콘텐츠를 생성하거나 배포하지 않기로 동의합니다.
+
+### 수수료 및 결제
+
+사용자는 autoBlogger 사용과 관련된 모든 수수료를 지불하기로 동의합니다. autoBlogger의 창조자는 언제든지 수수료를 변경할 권리를 보유합니다. 사용자는 수수료에 대한 변경 사항에 대한 사전 통지를 받게 됩니다.
+
+### 책임의 한계
+
+autoBlogger의 창조자는 autoBlogger 사용 또는 사용 불능으로 인한 직접, 간접, 우발적 또는 결과적인 손해에 대해 책임지지 않습니다. 손해에는 이익 손실, 데이터 손실 또는 사업 중단이 포함됩니다.
+
+### 해지
+
+autoBlogger의 창조자는 언제든지 어떤 이유로든 사용자의 autoBlogger 액세스를 종료할 권리를 보유합니다. 사용자는 자신의 Shopify 스토어에서 앱을 제거함으로써 언제든지 autoBlogger 사용을 종료할 수 있습니다.
+
+### 개인 정보 정책
+
+autoBlogger의 창조자는 사용자의 개인 정보를 심각하게 다룹니다. 사용자가 제공한 정보는 Shopify의 개인 정보 정책에 따라 사용됩니다. autoBlogger 사용으로 사용자는 Shopify의 개인 정보 정책 조건에 동의하는 것으로 간주됩니다.
+
+### 면책 조항
+
+autoBlogger는 명시적이든 암시적이든 어떠한 보증도 포함하지 않은 "있는 그대로" 제공됩니다. autoBlogger의 창조자는 autoBlogger에서 생성된 콘텐츠의 정확성이나 완전성을 포함하여 어떠한 종류의 표명이나 보증도 하지 않습니다.
+
+### 배상
+
+사용자는 autoBlogger의 사용 또는 이용 약관의 위반과 관련하여 발생하는 모든 손해, 손실, 비용 및 책임, 합리적인 변호사 비용을 포함하여 autoBlogger의 창조자를 배상 및 면책하기로 동의합니다.
+
+### 이용 약관의 수정
+
+autoBlogger의 창조자는 언제든지 이 이용 약관을 수정할 권리를 보유합니다. 사용자에게는 이 이용 약관의 변경 사항에 대해 통지됩니다.
+
+### 적용 법 및 관할권
+
+이 이용 약관은 autoBlogger의 창조자가 위치한 관할구역의 법률에 따라 해석되며 적용됩니다. 사용자는 해당 관할구역의 법원의 전속 관할권에 따라 제출하기로 동의합니다.
 
 ***
 
 # Norwegian (Bokmål) <a name="norwegian-bokmal"></a>
+## Vilkår og betingelser
 
+Dokumentet gir en oversikt over vilkårene for bruk av autoBlogger. Les disse vilkårene nøye før du bruker appen.
+
+## Viktig informasjon:
+
+### Generering av innhold og ansvar
+
+Skaperne av autoBlogger er ikke ansvarlige for innholdet som genereres av appen. autoBlogger bruker tredjeparts AI-programvare (Chat-GPT) for å automatisk lage og publisere blogger på brukernes Shopify-butikker. Brukeren erkjenner og godtar at innholdet generert av autoBlogger er basert på AI-algoritmer og ikke kan garanteres å være perfekt eller feilfritt. Det er fullstendig brukerens ansvar å sjekke og korrigere eventuelt innhold eller bilder.
+
+Vennligst merk at informasjonen levert av autoBlogger er basert på data tilgjengelig frem til GPT treningskutt-datoen. Emner som krever informasjon etter den datoen kan føre til blogger som ikke er nøyaktige, da AI-kunnskapen er begrenset til det som var tilgjengelig til det punktet.
+
+### Søkemotoroptimalisering (SEO)
+
+Søkemotoroptimalisering (SEO) påvirkes av mange faktorer. Mens autoBlogger fokuserer på to avgjørende aspekter - tilbakekoblinger og blogging - er det ikke et alt-i-ett SEO-verktøy. Som med enhver SEO-tilnærming, er resultater ikke garantert, og suksess kan variere basert på forskjellige faktorer, inkludert konkurranse, innholds kvalitet og nettstedsstruktur. Som med alle SEO-verktøy vil vi understreke at det ikke vil bli gitt refusjoner basert på SEO-resultatene du opplever.
+
+Ved å bruke autoBlogger sine tjenester erkjenner du at endringer i søketrafikk til butikken din kan skje på grunn av ulike faktorer, og autoBlogger er ikke ansvarlig for slike svingninger. Mulige årsaker til endringer i søketrafikk inkluderer, men er ikke begrenset til, oppdateringer av søkemotoralgoritmer, endringer på nettstedet og eksterne markedsføringskrefter. Det er viktig å merke seg at autoBlogger ikke har ansvar for endringer i søketrafikk eller søkemålinger og kan ikke garantere spesifikke resultater.
+
+### Refusjoner og abonnementer
+
+Refusjoner tilbys ikke for å glemme å avbryte abonnementer eller for andre grunner utenfor autoBlogger sin kontroll.
+
+### Tilbakekoblingsprogram
+
+Ved å delta i tilbakekoblingsprogrammet samtykker du i deling og publisering av butikk-URLen din på andre butikkers blogger. Du samtykker også i at lenker til andre butikker av og til kan bli publisert på bloggene dine. Vær oppmerksom på at autoBlogger ikke har ansvar for innholdet i lenkede butikker.
+
+## Vilkår og betingelser:
+
+### Akseptabel bruk
+
+Brukeren samtykker i å bruke autoBlogger kun til lovlige formål. Brukeren vil ikke bruke autoBlogger til å lage eller distribuere innhold som er ærekrenkende, støtende eller ulovlig.
+
+### Gebyrer og betaling
+
+Brukeren samtykker i å betale eventuelle gebyrer knyttet til bruk av autoBlogger. Skaperne av autoBlogger forbeholder seg retten til å endre gebyrene når som helst. Brukeren vil bli varslet på forhånd om eventuelle endringer i gebyrene.
+
+### Ansvarsbegrensning
+
+Skaperne av autoBlogger vil ikke være ansvarlige for direkte, indirekte, tilfeldige eller følgeskader som oppstår som følge av bruk eller manglende evne til å bruke autoBlogger, inkludert, men ikke begrenset til, tap av fortjeneste, data eller virksomhet.
+
+### Avslutning
+
+Skaperne av autoBlogger forbeholder seg retten til å avslutte brukerens tilgang til autoBlogger når som helst av hvilken som helst grunn. Brukeren kan avslutte bruken av autoBlogger når som helst ved å avinstallere appen fra Shopify-butikken sin.
+
+### Personvernregler
+
+Skaperne av autoBlogger tar personvernet til brukerne våre på alvor. Vi vil bare bruke informasjonen brukeren gir i samsvar med Shopify sin personvernpolicy. Ved å bruke autoBlogger samtykker brukeren i vilkårene for Shopify sin personvernpolicy.
+
+### Ansvarsfraskrivelse
+
+autoBlogger leveres "som det er" uten noen garantier, uttrykte eller underforståtte. Skaperne av autoBlogger gir ingen representasjoner eller garantier av noe slag, inkludert, men ikke begrenset til, nøyaktigheten eller fullstendigheten av innholdet generert av autoBlogger.
+
+### Indemnifikasjon
+
+Brukeren samtykker i å holde skaperne av autoBlogger skadesløse fra alle krav, skader, utgifter og ansvar, inkludert rimelige advokathonorarer, som oppstår som følge av brukerens bruk av autoBlogger eller brudd på disse vilkårene og betingelsene.
+
+### Endring av vilkår og betingelser
+
+Skaperne av autoBlogger forbeholder seg retten til å endre disse vilkårene og betingelsene når som helst. Brukeren vil bli varslet om eventuelle endringer i disse vilkårene og betingelsene.
+
+### Lovvalg og jurisdiksjon
+
+Disse vilkårene og betingelsene er underlagt og tolkes i samsvar med lovene i jurisdiksjonen hvor skaperne av autoBlogger er lokalisert. Brukeren samtykker i å underkaste seg den eksklusive jurisd
 
 ***
 
 # Polish <a name="polish"></a>
+## Regulamin
 
+Dokument ten określa warunki korzystania z autoBlogger. Przeczytaj uważnie te warunki przed skorzystaniem z aplikacji.
+
+## Najważniejsze informacje:
+
+### Generowanie treści i odpowiedzialność
+
+Twórcy autoBloggera nie ponoszą odpowiedzialności za treści generowane przez aplikację. autoBlogger używa oprogramowania sztucznej inteligencji zewnętrznej (Chat-GPT), aby automatycznie tworzyć i publikować blogi w sklepach Shopify użytkowników. Użytkownik przyznaje się i zgadza, że treści generowane przez autoBloggera są oparte na algorytmach sztucznej inteligencji i nie można zagwarantować, że będą one doskonałe lub wolne od błędów. To całkowita odpowiedzialność właściciela sklepu sprawdzić i poprawić ewentualne treści lub obrazy.
+
+Zauważ, że informacje dostarczane przez autoBloggera są oparte na danych dostępnych do daty odcięcia szkolenia GPT. Tematy wymagające informacji po tej dacie mogą prowadzić do blogów, które nie są dokładne, ponieważ wiedza sztucznej inteligencji jest ograniczona do tego, co było dostępne do tego momentu.
+
+### Optymalizacja dla wyszukiwarek internetowych (SEO)
+
+Optymalizacja dla wyszukiwarek internetowych (SEO) zależy od licznych czynników. Chociaż autoBlogger skupia się na dwóch kluczowych aspektach - budowaniu linków i blogowaniu - nie jest to narzędzie SEO all-in-one. Jak w przypadku każdej strategii SEO, wyniki nie są gwarantowane, a sukces może się różnić w zależności od różnych czynników, takich jak konkurencja, jakość treści i struktura witryny. Podobnie jak we wszystkich narzędziach SEO, chcemy podkreślić, że nie będą udzielane zwroty na podstawie wyników SEO, jakie doświadczysz.
+
+Korzystając z usług autoBloggera, użytkownik potwierdza, że ​​zmiany w ruchu wyszukiwarki do witryny sklepowej mogą wystąpić z różnych powodów, a autoBlogger nie ponosi odpowiedzialności za takie fluktuacje. Możliwe przyczyny zmian w ruchu wyszukiwarki obejmują, ale nie są ograniczone do aktualizacji algorytmów wyszukiwarek, zmian na stronie internetowej i zewnętrznych sił rynkowych. Ważne jest zauważenie, że autoBlogger nie ponosi odpowiedzialności za zmiany w ruchu wyszukiwarki ani metrykach wyszukiwania i nie może zagwarantować konkretnych wyników.
+
+### Zwroty i subskrypcje
+
+Nie oferuje się zwrotów za zapomnienie o anulowaniu subskrypcji lub z jakiejkolwiek innej przyczyny poza kontrolą autoBloggera.
+
+### Program budowy linków
+
+Przystępując do programu budowy linków, wyrażasz zgodę na udostępnianie i publikowanie adresu URL swojego sklepu na blogach innych sklepów. Zgadzasz się również na to, że na Twoich blogach mogą czasami pojawiać się linki do innych sklepów. AutoBlogger nie ponosi odpowiedzialności za treści połączonych sklepów.
+
+## Warunki i postanowienia:
+
+### Akceptowalne użycie
+
+Użytkownik zgadza się używać autoBloggera wyłącznie do celów legalnych. Użytkownik nie będzie używać autoBloggera do tworzenia lub dystrybucji treści zniesławiających, obraźliwych lub nielegalnych.
+
+### Opłaty i płatności
+
+Użytkownik zgadza się opłacać wszelkie opłaty związane z korzystaniem z autoBloggera. Twórcy autoBloggera zastrzegają sobie prawo do zmiany opłat w dowolnym momencie. Użytkownik zostanie poinformowany z wyprzedzeniem o wszelkich zmianach w opłatach.
+
+### Ograniczenie odpowiedzialności
+
+Twórcy autoBloggera nie będą ponosić odpowiedzialności za bezpośrednie, pośrednie, przypadkowe czy wynikowe szkody wynikłe z korzystania lub niemożności korzystania z autoBloggera, w tym, ale nie ograniczając się do utraty zysków, danych czy biznesu.
+
+### Zakończenie
+
+Twórcy autoBloggera zastrzegają sobie prawo do zakończenia dostępu użytkownika do autoBloggera w dowolnym momencie z dowolnego powodu. Użytkownik może zakończyć korzystanie z autoBloggera w dowolnym momencie, odinstalowując aplikację ze sklepu Shopify.
+
+### Polityka prywatności
+
+Twórcy autoBloggera poważnie podchodzą do prywatności użytkowników. Informacje dostarczone przez użytkownika będą używane wyłącznie zgodnie z Polityką prywatności Shopify. Korzystając z autoBloggera, użytkownik zgadza się na warunki Polityki prywatności Shopify.
+
+### Oświadczenie o odpowiedzialności
+
+autoBlogger dostarczany jest "tak jaki jest", bez żadnych gwarancji, wyraźnych lub dorozumianych. Twórcy autoBloggera nie składają żadnych oświadczeń ani nie udzielają żadnych gwarancji, w tym, lecz nie ograniczając się do dokładności lub kompletności treści generowanych przez autoBloggera.
+
+### Uwolnienie od odpowiedzialności
+
+Użytkownik zgadza się zwolnić od odpowiedzialności i zabezpieczyć twórców autoBloggera od wszelkich roszczeń, szkód, wydatków i zobowiązań, w tym rozsądnych opłat prawniczych, wynikających z korzystania przez użytkownika z autoBloggera lub naruszenia niniejszych warunków i postanowień.
+
+### Modyfikacja warunków i postanowień
+
+Twórcy autoBloggera zastrzegają sobie prawo do modyfikowania niniejszych warunków i postanowień w dowolnym momencie. Użytkownik zostanie poinformowany o wszelkich zmianach w niniejszych warunkach i postanowieniach.
+
+### Prawo i jurysdykcja
+
+Niniejsze warunki i postanowienia są objęte i interpretowane zgodnie z prawem jurysdykcji, w której znajdują się twórcy autoBloggera. Użytkownik zgadza się poddać wyłącznej jurysdykcji sądów tej jurysdykcji.
 
 ***
 
 # Portuguese (Brazil) <a name="portuguese-brazil"></a>
+## Termos e Condições
 
+Este documento estabelece os termos e condições para o uso do autoBlogger. Leia atentamente estes termos antes de usar o aplicativo.
+
+## As Informações Importantes:
+
+### Geração de Conteúdo e Responsabilidade
+
+Os criadores do autoBlogger não são responsáveis pelo conteúdo gerado pelo aplicativo. O autoBlogger utiliza um software de inteligência artificial de terceiros (Chat-GPT) para criar e publicar automaticamente blogs nas lojas Shopify dos usuários. O usuário reconhece e concorda que o conteúdo gerado pelo autoBlogger é baseado em algoritmos de inteligência artificial e não pode ser garantido como perfeito ou isento de erros. É totalmente responsabilidade do proprietário da loja verificar e corrigir qualquer conteúdo ou imagens.
+
+Por favor, observe que as informações fornecidas pelo autoBlogger são baseadas em dados disponíveis até a data de corte do treinamento GPT. Tópicos que exigem informações após essa data podem resultar em blogs que não são precisos, pois o conhecimento da IA é limitado ao que estava disponível até aquele momento.
+
+### Otimização para Mecanismos de Busca (SEO)
+
+A Otimização para Mecanismos de Busca (SEO) é influenciada por inúmeros fatores. Embora o autoBlogger se concentre em dois aspectos cruciais - link building e blogs - ele não é uma ferramenta SEO completa. Como em qualquer abordagem de SEO, os resultados não são garantidos, e o sucesso pode variar com base em vários fatores, incluindo concorrência, qualidade do conteúdo e estrutura do site. Como em todas as ferramentas de SEO, queremos enfatizar que não haverá reembolsos com base nos resultados de SEO que você experimentar.
+
+Ao usar os serviços do autoBlogger, você reconhece que mudanças no tráfego de pesquisa para o seu site podem ocorrer devido a vários fatores, e o autoBlogger não é responsável por tais flutuações. Possíveis razões para as mudanças no tráfego de pesquisa incluem, mas não estão limitadas a, atualizações nos algoritmos de mecanismos de busca, alterações no site e forças de mercado externas. É importante observar que o autoBlogger não assume responsabilidade por qualquer alteração no tráfego de pesquisa ou métricas de pesquisa e não pode garantir resultados específicos.
+
+### Reembolsos e Assinaturas
+
+Reembolsos não são oferecidos por esquecimento de cancelar assinaturas ou por qualquer outro motivo fora do controle do autoBlogger.
+
+### Programa de Construção de Links
+
+Ao participar do programa de construção de links, você concorda com o compartilhamento e publicação do URL da sua loja em blogs de outras lojas. Você também concorda que links para outras lojas podem ocasionalmente ser publicados em seus blogs. Observe que o autoBlogger não se responsabiliza pelo conteúdo das lojas vinculadas.
+
+## Termos e Condições:
+
+### Uso Aceitável
+
+O usuário concorda em usar o autoBlogger apenas para fins legítimos. O usuário não usará o autoBlogger para criar ou distribuir qualquer conteúdo difamatório, ofensivo ou ilegal.
+
+### Taxas e Pagamentos
+
+O usuário concorda em pagar quaisquer taxas associadas ao uso do autoBlogger. Os criadores do autoBlogger reservam-se o direito de alterar as taxas a qualquer momento. O usuário será notificado antecipadamente sobre quaisquer alterações nas taxas.
+
+### Limitação de Responsabilidade
+
+Os criadores do autoBlogger não serão responsáveis por quaisquer danos diretos, indiretos, incidentais ou consequentes decorrentes do uso ou incapacidade de usar o autoBlogger, incluindo, mas não se limitando a, perda de lucros, dados ou negócios.
+
+### Rescisão
+
+Os criadores do autoBlogger reservam o direito de encerrar o acesso do usuário ao autoBlogger a qualquer momento por qualquer motivo. O usuário pode encerrar o uso do autoBlogger a qualquer momento desinstalando o aplicativo de sua loja Shopify.
+
+### Política de Privacidade
+
+Os criadores do autoBlogger levam a privacidade de nossos usuários a sério. A informação fornecida pelo usuário será utilizada apenas de acordo com a Política de Privacidade da Shopify. Ao usar o autoBlogger, o usuário concorda com os termos da Política de Privacidade da Shopify.
+
+### Isenção de Responsabilidade
+
+O autoBlogger é fornecido "como está" sem quaisquer garantias, expressas ou implícitas. Os criadores do autoBlogger não fazem representações ou garantias de qualquer tipo, incluindo, mas não se limitando à precisão ou completude do conteúdo gerado pelo autoBlogger.
+
+### Indenização
+
+O usuário concorda em indenizar e isentar os criadores do autoBlogger de quaisquer reivindicações, danos, despesas e responsabilidades
 
 ***
 
 # Portuguese (Portugal) <a name="portuguese-portugal"></a>
+## Termos e Condições
 
+Este documento estabelece os termos e condições para a utilização do autoBlogger. Por favor, leia estes termos atentamente antes de utilizar a aplicação.
+
+## Informações Importantes:
+
+### Geração de Conteúdo e Responsabilidade
+
+Os criadores do autoBlogger não são responsáveis pelo conteúdo gerado pela aplicação. O autoBlogger utiliza software de inteligência artificial de terceiros (Chat-GPT) para criar e publicar automaticamente blogs nas lojas Shopify dos utilizadores. O utilizador reconhece e concorda que o conteúdo gerado pelo autoBlogger é baseado em algoritmos de inteligência artificial e não pode ser garantido como perfeito ou livre de erros. É da responsabilidade exclusiva do proprietário da loja verificar e corrigir qualquer conteúdo ou imagens.
+
+Por favor, note que a informação fornecida pelo autoBlogger é baseada em dados disponíveis até à data de corte do treino GPT. Tópicos que requerem informação após essa data podem resultar em blogs que não são precisos, uma vez que o conhecimento da IA está limitado ao que estava disponível até esse momento.
+
+### Otimização para Motores de Busca (SEO)
+
+A Otimização para Motores de Busca (SEO) é influenciada por inúmeros fatores. Embora o autoBlogger se concentre em dois aspetos cruciais - construção de links e blogging - não é uma ferramenta SEO completa. Tal como em qualquer abordagem de SEO, os resultados não são garantidos, e o sucesso pode variar com base em vários fatores, incluindo concorrência, qualidade do conteúdo e estrutura do site. Como em todas as ferramentas de SEO, enfatizamos que não serão concedidos reembolsos com base nos resultados de SEO que possa experienciar.
+
+Ao utilizar os serviços do autoBlogger, reconhece que alterações no tráfego de pesquisa para o seu site podem ocorrer devido a vários fatores, e o autoBlogger não é responsável por tais flutuações. Possíveis razões para alterações no tráfego de pesquisa incluem, mas não estão limitadas a, atualizações de algoritmos de motores de busca, alterações no site e forças de mercado externas. É importante salientar que o autoBlogger não assume responsabilidade por qualquer alteração no tráfego de pesquisa ou métricas de pesquisa e não pode garantir resultados específicos.
+
+### Reembolsos e Subscrições
+
+Não são oferecidos reembolsos por esquecimento de cancelar subscrições ou por qualquer outro motivo fora do controlo do autoBlogger.
+
+### Programa de Construção de Links
+
+Ao participar no programa de construção de links, concorda com o compartilhamento e publicação do URL da sua loja em blogs de outras lojas. Concorda também que links para outras lojas podem ocasionalmente ser publicados nos seus blogs. Note que o autoBlogger não se responsabiliza pelo conteúdo das lojas vinculadas.
+
+## Termos e Condições:
+
+### Utilização Aceitável
+
+O utilizador concorda em utilizar o autoBlogger apenas para fins legítimos. O utilizador não utilizará o autoBlogger para criar ou distribuir qualquer conteúdo difamatório, ofensivo ou ilegal.
+
+### Taxas e Pagamentos
+
+O utilizador concorda em pagar quaisquer taxas associadas ao uso do autoBlogger. Os criadores do autoBlogger reservam-se o direito de alterar as taxas a qualquer momento. O utilizador será notificado antecipadamente de quaisquer alterações nas taxas.
+
+### Limitação de Responsabilidade
+
+Os criadores do autoBlogger não serão responsáveis por quaisquer danos diretos, indiretos, incidentais ou consequentes resultantes do uso ou incapacidade de usar o autoBlogger, incluindo, mas não se limitando a, perda de lucros, dados ou negócios.
+
+### Rescisão
+
+Os criadores do autoBlogger reservam-se o direito de rescindir o acesso do utilizador ao autoBlogger a qualquer momento por qualquer motivo. O utilizador pode rescindir o uso do autoBlogger a qualquer momento desinstalando a aplicação da sua loja Shopify.
+
+### Política de Privacidade
+
+Os criadores do autoBlogger levam a privacidade dos nossos utilizadores a sério. A informação fornecida pelo utilizador será utilizada apenas de acordo com a Política de Privacidade da Shopify. Ao utilizar o autoBlogger, o utilizador concorda com os termos da Política de Privacidade da Shopify.
+
+### Isenção de Responsabilidade
+
+O autoBlogger é fornecido "como está" sem quaisquer garantias, expressas ou implícitas. Os criadores do autoBlogger não fazem representações ou garantias de qualquer tipo, incluindo, mas não se limitando à precisão ou completude do conteúdo gerado pelo autoBlogger.
+
+### Indemnização
+
+O utilizador concorda em indemnizar e isentar os criadores do autoBlogger de quaisquer reivindicações, danos, despesas e responsabilidades, incluindo honorários advocatícios razoáveis, decorrentes do uso do autoBlogger ou de qualquer violação destes termos e condições.
+
+### Modificação dos Termos e Condições
+
+Os criadores do autoBlogger reservam-se o direito de modificar estes termos e condições a qualquer momento. O utilizador será notificado de quaisquer alterações a estes termos e condições.
+
+### Lei Aplicável e Jurisdição
+
+Estes termos e condições são regidos e interpretados de acordo com as leis da jurisdição onde os criadores do autoBlogger estão localizados. O utilizador concorda em submeter-se à jurisdição exclusiva dos tribunais dessa jurisdição.
 
 ***
 
 # Spanish <a name="spanish"></a>
+## Términos y Condiciones
 
+Este documento establece los términos y condiciones para el uso de autoBlogger. Lea estos términos detenidamente antes de utilizar la aplicación.
+
+## La Información Importante:
+
+### Generación de Contenido y Responsabilidad
+
+Los creadores de autoBlogger no son responsables del contenido generado por la aplicación. autoBlogger utiliza software de inteligencia artificial de terceros (Chat-GPT) para crear y publicar automáticamente blogs en las tiendas Shopify de los usuarios. El usuario reconoce y acepta que el contenido generado por autoBlogger se basa en algoritmos de inteligencia artificial y no se puede garantizar que sea perfecto o libre de errores. Es responsabilidad exclusiva del propietario de la tienda verificar y corregir cualquier contenido o imágenes.
+
+Tenga en cuenta que la información proporcionada por autoBlogger se basa en datos disponibles hasta la fecha de corte del entrenamiento GPT. Los temas que requieren información después de esa fecha pueden resultar en blogs que no son precisos, ya que el conocimiento de la IA se limita a lo que estaba disponible hasta ese momento.
+
+### Optimización para Motores de Búsqueda (SEO)
+
+La Optimización para Motores de Búsqueda (SEO) está influenciada por numerosos factores. Aunque autoBlogger se enfoca en dos aspectos cruciales: la construcción de enlaces y los blogs, no es una herramienta SEO completa. Al igual que con cualquier enfoque de SEO, los resultados no están garantizados, y el éxito puede variar según diversos factores, como la competencia, la calidad del contenido y la estructura del sitio web. Como con todas las herramientas de SEO, queremos enfatizar que no se ofrecerán reembolsos basados en los resultados de SEO que experimente.
+
+Al utilizar los servicios de autoBlogger, usted reconoce que pueden ocurrir cambios en el tráfico de búsqueda hacia su sitio debido a varios factores, y autoBlogger no es responsable de tales fluctuaciones. Las posibles razones para cambios en el tráfico de búsqueda incluyen, pero no se limitan a, actualizaciones en los algoritmos de motores de búsqueda, cambios en el sitio web y fuerzas externas del mercado. Es importante tener en cuenta que autoBlogger no asume ninguna responsabilidad por cambios en el tráfico de búsqueda o métricas de búsqueda y no puede garantizar resultados específicos.
+
+### Reembolsos y Suscripciones
+
+No se ofrecen reembolsos por olvidar cancelar suscripciones u otras razones fuera del control de autoBlogger.
+
+### Programa de Construcción de Enlaces
+
+Al unirse al programa de construcción de enlaces, usted acepta compartir y publicar la URL de su tienda en blogs de otras tiendas. También acepta que en sus blogs ocasionalmente pueden aparecer enlaces a otras tiendas. Tenga en cuenta que autoBlogger no se hace responsable del contenido de las tiendas vinculadas.
+
+## Términos y Condiciones:
+
+### Uso Aceptable
+
+El usuario acepta utilizar autoBlogger solo con fines legítimos. El usuario no utilizará autoBlogger para crear o distribuir contenido difamatorio, ofensivo o ilegal.
+
+### Tarifas y Pagos
+
+El usuario acepta pagar cualquier tarifa asociada con el uso de autoBlogger. Los creadores de autoBlogger se reservan el derecho de cambiar las tarifas en cualquier momento. Se le notificará con anticipación sobre cualquier cambio en las tarifas.
+
+### Limitación de Responsabilidad
+
+Los creadores de autoBlogger no serán responsables de daños directos, indirectos, incidentales o consecuentes derivados del uso o la incapacidad de utilizar autoBlogger, incluida, pero no limitada a, la pérdida de beneficios, datos o negocios.
+
+### Terminación
+
+Los creadores de autoBlogger se reservan el derecho de terminar el acceso del usuario a autoBlogger en cualquier momento por cualquier motivo. El usuario puede terminar su uso de autoBlogger en cualquier momento desinstalando la aplicación de su tienda Shopify.
+
+### Política de Privacidad
+
+Los creadores de autoBlogger toman en serio la privacidad de nuestros usuarios. Solo utilizaremos la información proporcionada por el usuario de acuerdo con la Política de Privacidad de Shopify. Al utilizar autoBlogger, el usuario acepta los términos de nuestra Política de Privacidad de Shopify.
+
+### Descargo de Responsabilidad
+
+autoBlogger se proporciona "tal cual" sin ninguna garantía, expresa o implícita. Los creadores de autoBlogger no hacen representaciones ni ofrecen garantías de ningún tipo, incluida, pero no limitada a, la precisión o integridad del contenido generado por autoBlogger.
+
+### Indemnización
+
+El usuario acepta indemnizar y eximir de responsabilidad a los creadores de autoBlogger de cualquier y todos los reclamos, daños, gastos y responsabilidades, incluidos los honorarios razonables de abogados, derivados del uso de autoBlogger o cualquier violación de estos términos y condiciones.
+
+### Modificación de Términos y Condiciones
+
+Los creadores de autoBlogger se reservan el derecho de modificar estos términos y condiciones en cualquier momento. Se notificará al usuario de cualquier cambio en estos términos y condiciones.
+
+### Ley Aplicable y Jurisdicción
+
+Estos términos y condiciones están regidos e interpretados de acuerdo con las leyes de la jurisdicción donde se encuentran los creadores de autoBlogger. El usuario acepta someterse a la jurisdicción exclusiva de los tribunales en esa jurisdicción.
 
 ***
 
 # Swedish <a name="swedish"></a>
+## Villkor och Bestämmelser
 
+Detta dokument fastställer villkoren för att använda autoBlogger. Vänligen läs dessa villkor noggrant innan du använder appen.
+
+## Det Viktiga:
+
+### Innehållsskapande och Ansvar
+
+Skaparna av autoBlogger är inte ansvariga för det innehåll som genereras av appen. autoBlogger använder tredjeparts AI-programvara (Chat-GPT) för att automatiskt skapa och publicera bloggar på användarnas Shopify-butiker. Användaren erkänner och samtycker till att innehållet som genereras av autoBlogger är baserat på AI-algoritmer och inte kan garanteras vara perfekt eller fritt från fel. Det är helt användarens ansvar att kontrollera och korrigera eventuellt innehåll eller bilder.
+
+Observera att informationen som tillhandahålls av autoBlogger är baserad på data tillgänglig fram till GPT-träningsavsnittets avstängningsdatum. Ämnen som kräver information efter det datumet kan resultera i bloggar som inte är korrekta, eftersom AI:s kunskap är begränsad till det som var tillgängligt fram till den punkten.
+
+### Sökmotoroptimering (SEO)
+
+Sökmotoroptimering (SEO) påverkas av många faktorer. Även om autoBlogger fokuserar på två avgörande aspekter - länkbyggande och bloggande - är det inte en heltäckande SEO-verktyg. Liksom alla SEO-ansatser garanteras inga resultat, och framgång kan variera beroende på olika faktorer, inklusive konkurrens, kvalitet på innehållet och webbplatsstruktur. Som med alla SEO-verktyg vill vi betona att inga återbetalningar kommer att ges baserat på de SEO-resultat du upplever.
+
+Genom att använda autoBlogger:s tjänster erkänner du att förändringar i söktrafik till din butik kan inträffa av olika skäl, och autoBlogger är inte ansvarig för sådana fluktuationer. Möjliga orsaker till förändringar i söktrafik inkluderar, men är inte begränsade till, uppdateringar av sökmotoralgoritmer, ändringar på webbplatsen och externa marknadskrafter. Det är viktigt att notera att autoBlogger inte tar något ansvar för någon förändring i söktrafik eller sökmetriker och kan inte garantera specifika resultat.
+
+### Återbetalningar och Prenumerationer
+
+Återbetalningar erbjuds inte för att glömma att avbryta prenumerationer eller av någon annan anledning utanför autoBlogger:s kontroll.
+
+### Baklänkprogram
+
+Genom att delta i baklänkprogrammet samtycker du till delning och publicering av din butiks URL på andra butikers bloggar. Du samtycker också till att länkar till andra butiker ibland kan publiceras på dina bloggar. Observera att autoBlogger inte tar något ansvar för innehållet på länkade butiker.
+
+## Villkor och Bestämmelser:
+
+### Godkänd Användning
+
+Användaren samtycker till att använda autoBlogger endast för lagliga ändamål. Användaren kommer inte att använda autoBlogger för att skapa eller distribuera något innehåll som är förtalande, kränkande eller olagligt.
+
+### Avgifter och Betalning
+
+Användaren samtycker till att betala eventuella avgifter för att använda autoBlogger. Skaparna av autoBlogger förbehåller sig rätten att ändra avgifterna när som helst. Användaren kommer att meddelas i förväg om eventuella ändringar i avgifterna.
+
+### Begränsning av Ansvar
+
+Skaparna av autoBlogger kommer inte att hållas ansvariga för direkta, indirekta, incidentella eller följdskador som uppstår från användningen eller oförmågan att använda autoBlogger, inklusive men inte begränsat till förlust av vinster, data eller affär.
+
+### Avslutning
+
+Skaparna av autoBlogger förbehåller sig rätten att avsluta användarens åtkomst till autoBlogger när som helst av vilken anledning som helst. Användaren kan avsluta sin användning av autoBlogger när som helst genom att avinstallera appen från sin Shopify-butik.
+
+### Sekretesspolicy
+
+Skaparna av autoBlogger tar användarnas integritet på allvar. Vi kommer endast att använda den information som användaren tillhandahåller i enlighet med Shopify:s integritetspolicy. Genom att använda autoBlogger samtycker användaren till villkoren i Shopify:s integritetspolicy.
+
+### Ansvarsfriskrivning
+
+autoBlogger tillhandahålls "som det är" utan några garantier, uttryckta eller underförstådda. Skaparna av autoBlogger gör inga utfästelser eller garantier av något slag, inklusive men inte begränsat till noggrannheten eller fullständigheten av innehållet som genereras av autoBlogger.
+
+### Skadestånd
+
+Användaren samtycker till att skadestå och hålla oskyldiga skaparna av autoBlogger från alla anspråk, skador, kostnader och ansvar, inklusive rimliga advokatkostnader, som uppstår från eller i samband med användarens användning av autoBlogger eller något brott mot dessa villkor och bestämmelser.
+
+### Ändring av Villkor och Bestämmelser
+
+Skaparna av autoBlogger förbehåller sig rätten att ändra dessa villkor och bestämmelser när som helst. Användaren kommer att meddelas om eventuella ändringar i dessa villkor och bestämmelser.
+
+### Tillämplig Lag och Jurisdiktion
+
+Dessa villkor och bestämmelser regleras av och tolkas i enlighet med lagarna i den jurisdiktion där skaparna av autoBlogger är belägna. Användaren samtycker till att underkasta sig uteslutande jurisdiktion från domstolarna i den jurisdiktionen.
 
 ***
 
 # Thai <a name="thai"></a>
+## เงื่อนไขและข้อตกลง
 
+เอกสารนี้ระบุเงื่อนไขและข้อตกลงในการใช้ autoBlogger โปรดอ่านเงื่อนไขเหล่านี้อย่างระมัดระวังก่อนใช้แอปพลิเคชันนี้
+
+## ข้อสำคัญ:
+
+### การสร้างเนื้อหาและความรับผิด
+
+ผู้สร้างของ autoBlogger ไม่รับผิดชอบในเนื้อหาที่ถูกสร้างขึ้นโดยแอป  autoBlogger ใช้ซอฟต์แวร์ AI จากบุคคลที่สาม (Chat-GPT) เพื่อสร้างและโพสต์บล็อกโดยอัตโนมัติในร้าน Shopify ของผู้ใช้ ผู้ใช้รับรู้และตกลงว่าเนื้อหาที่ autoBlogger สร้างขึ้นขึ้นอยู่กับอัลกอริทึม AI และไม่สามารถ รับประกันได้ว่าจะเสมอภายหรือไม่มีข้อผิดพลาด หน้าที่นี้เต็มไปด้วยเจ้าของร้านที่ต้องตรวจสอบและแก้ไขเนื้อหาหรือภาพใด ๆ
+
+โปรดทราบว่าข้อมูลที่ autoBlogger ให้ขึ้นอยู่กับข้อมูลที่มีจนถึงวันที่ตัดการฝึก GPT หัวข้อที่ต้องการข้อมูลหลังจากวันนั้นอาจทำให้ได้บล็อกที่ไม่ถูกต้อง เนื่องจากความรู้ของ AI ถูก จำกัด ถึงจุดนั้น
+
+### การจัดทำ SEO (Search Engine Optimization)
+
+Search Engine Optimization (SEO) ได้รับผลจากหลายปัจจัย ในขณะที่ autoBlogger มุ่งเน้นที่สองด้านสำคัญ - การสร้างลิงก์กลับและการโพสต์บล็อก - มันไม่ใช่เครื่องมือ SEO ที่ครอบคลุมทั้งหมด เหมือนกับการทำ SEO ใด ๆ ผลลัพธ์ไม่ได้รับการ รับประกันและความสำเร็จอาจแปรผลตามหลายปัจจัย รวมถึงการแข่งขันคุณภาพของเนื้อหาและโครงสร้างเว็บไซต์ ในทางเดียวกันกับเครื่องมือ SEO ทั้งหมดเราต้องการเน้น ว่าไม่มีการคืนเงินจะได้รับตามผลลัพธ์ SEO ที่คุณประสบ
+
+โดยการใช้บริการ autoBlogger คุณยอมรับว่าการเปลี่ยนแปลงในการจราจรค้นหาไปยังเว็บไซต์ร้านค้าของคุณอาจเกิดขึ้นเนื่องจากหลายปัจจัย และ autoBlogger ไม่รับผิดชอบต่อ การสลับในการจราจรค้นหาหรือตัววัดการค้นหา สาเหตุที่เปลี่ยนแปลงในการจราจรค้นหารวมถึง แต่ไม่ จำกัด ถึงการอัพเดทอัลกอริทึมของเครื่องมือค้นหา เปลี่ยนแปลงเว็บไซต์ และ แรงจูงใจตลาดภายนอก สำคัญที่จะทราบว่า autoBlogger ไม่รับผิดชอบสำหรับ การเปลี่ยนแปลงใด ๆ ในการจราจรค้นหาหรือการวัดการค้นหาและไม่สามารถ รับประกันผลลัพธ์ที่เฉพาะเจาะจง
+
+### การคืนเงินและการสมัครสมาชิก
+
+ไม่มีการนำเสนอการคืนเงินสำหรับลืมที่จะยกเลิกการสมัครสมาชิกหรือเหตุผลใด ๆ อื่น ๆ นอกเหนือจากควบคุมของ autoBlogger
+
+### โปรแกรมการสร้างลิงก์กลับ
+
+โดยการเข้าร่วมโปรแกรมการสร้างลิงก์กลับ คุณยินยอมที่จะแบ่งปันและโพสต์ URL ของร้านของคุณในบล็อกของร้านค้าอื่น ๆ คุณยินยอมนอกจากนี้ ลิงค์ไปยังร้านค้าอื่น ๆ บางครั้งอาจถูกโพสต์ในบล็อกของคุณ โปรดทราบว่า autoBlogger ไม่รับผิดชอบต่อ เนื้อหาของร้านที่ลิงค์ไป
+
+## เงื่อนไขและข้อตกลง:
+
+### การใช้งานที่ยอมรับได้
+
+ผู้ใช้ตกลงที่จะใช้ autoBlogger สำหรับวัตถุประสงค์ที่ถูกต้องเท่านั้น ผู้ใช้จะไม่ใช้ autoBlogger เพื่อสร้างหรือแจกจ่ายเนื้อหาที่เสมือนเป็นการหลอกลวง ทำให้รุนแรงหรือผิดกฎหมาย
+
+### ค่าธรรมเนียมและการชำระเงิน
+
+ผู้ใช้ยินยอมที่จะชำระค่าธรรมเนียมที่เกี่ยวข้องกับการใช้ autoBlogger ผู้สร้าง autoBlogger ขอสงวนสิทธิ์ในการเปลี่ยนแปลงค่าธรรมเนียมได้ตลอดเวลา ผู้ใช้จะได้รับแจ้งล่วงหน้าเกี่ยวกับการเปลี่ยนแปลงทางการเงิน
+
+### จำกัดความรับผิด
+
+ผู้สร้าง autoBlogger จะไม่รับผิดชอบต่อความเสียหายโดยตรง, ทางอ้อม, ฉ้อฉลหรือผลกระทบทางละเว้นที่เกิดจากการใช้หรือไม่สามารถใช้ autoBlogger, รวมถึงแต่ไม่จำกัด การสูญเสียกำไร, ข้อมูล หรือธุรกิจ
+
+### การสิ้นสุด
+
+ผู้สร้าง autoBlogger ขอสงวนสิทธิ์ในการสิ้นสุดการเข้าถึงของผู้ใช้ไปยัง autoBlogger ได้ตลอดเวลา ด้วยเหตุผลใดก็ได้ ผู้ใช้สามารถสิ้นสุดการใช้ autoBlogger ได้ตลอดเวลาโดายการถอนแอปพลิเคชันจากร้าน Shopify ของพวกเขา
+
+### นโยบายความเป็นส่วนตัว
+
+ผู้สร้าง autoBlogger ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้ของเรา เราจะใช้ข้อมูลที่ผู้ใช้ให้ไว้เฉพาะตามนโยบายความเป็นส่วนตัวของ Shopify. ด้วยการใช้ autoBlogger, ผู้ใช้ยินยอมตามข้อกำหนดของนโยบายความเป็นส่วนตัวของ Shopify.
+
+### ข้อจำกัดในการรับผิด
+
+autoBlogger ได้รับ "ตามเดิม" โดยไม่มีการรับประกันใด ๆ, ทั้งแบบชัดแจ้งหรือทำนาย. ผู้สร้าง autoBlogger ไม่ได้ทำการรับประกันหรือให้ประกันใด ๆ เกี่ยวกับความถูกต้องหรือความสมบูรณ์ของเนื้อหาที่ autoBlogger สร้างขึ้น.
+
+### การป้องกันตัวกัน
+
+ผู้ใช้ยินยอมป้องกันและไว้วางใจผู้สร้าง autoBlogger จากทุกข้อเรียกร้อง, ความเสียหาย, ค่าใช้จ่าย, และความรับผิดชอบทุกรูปแบบ, รวมถึงค่าทนายความที่เหมาะสม, ที่เกิดขึ้นจากหรือเกี่ยวข้องกับการใช้ autoBlogger หรือการละเมิดข้อตกลงและเงื่อนไขเหล่านี้.
+
+### การปรับเปลี่ยนเงื่อนไขและข้อตกลง
+
+ผู้สร้าง autoBlogger ขอสงวนสิทธิ์ในการปรับเปลี่ยนเงื่อนไขและข้อตกลงเหล่านี้ได้ตลอดเวลา. ผู้ใช้จะได้รับการแจ้งเตือนเกี่ยวกับการเปลี่ยนแปลงใด ๆ ในเงื่อนไขและข้อตกลงเหล่านี้.
+
+### กฎหมายที่บังคับและอำนาจศาล
+
+เงื่อนไขและข้อตกลงเหล่านี้ได้รับการบังคับตามกฎหมายและได้รับการตีความตามกฎหมายในท้องที่ที่ผู้สร้าง autoBlogger ตั้งอยู่. ผู้ใช้ยินยอมจะยื่นตัวเข้าสู่ศาลที่มีอำนาจในนั้น ๆ.
 
 ***
 
 # Turkish <a name="turkish"></a>
+## Şartlar ve Koşullar
+
+Bu belge, autoBlogger'ı kullanma şartlarını ve koşullarını açıklar. Lütfen uygulamayı kullanmadan önce bu şartları dikkatlice okuyun.
+
+## Önemli Bilgiler:
+
+### İçerik Oluşturma ve Sorumluluk
+
+autoBlogger'ın oluşturduğu içerikten uygulama sahipleri sorumlu değildir. autoBlogger, kullanıcıların Shopify mağazalarında otomatik olarak blog oluşturmak ve yayınlamak için 3. taraf AI yazılımını (Chat-GPT) kullanır. Kullanıcı, autoBlogger tarafından oluşturulan içeriğin AI algoritmalarına dayandığını ve mükemmel veya hata içermeyen bir şekilde garanti edilemeyeceğini kabul eder. İçeriği veya resimleri kontrol etmek ve düzeltmek tamamen mağaza sahibinin sorumluluğundadır.
+
+Lütfen unutmayın ki autoBlogger tarafından sağlanan bilgiler, GPT eğitim kesim tarihine kadar mevcut verilere dayanmaktadır. Bu tarihten sonraki bilgi gerektiren konular, AI'nın bilgisi o noktaya kadar mevcut olanlarla sınırlı olduğu için doğru olmayan bloglara neden olabilir.
+
+### Arama Motoru Optimizasyonu (SEO)
+
+Arama Motoru Optimizasyonu (SEO), birçok faktörden etkilenir. autoBlogger, iki temel öne çıkan yönü olan bağlantı oluşturma ve bloglama üzerine odaklanmasına rağmen tümüyle bir SEO aracı değildir. Herhangi bir SEO yaklaşımı gibi, sonuçlar garanti edilmez ve başarı, rekabet, içerik kalitesi ve web sitesi yapısı gibi çeşitli faktörlere bağlı olarak değişebilir. Tüm SEO araçları gibi, yaşadığınız SEO sonuçlarına dayanarak hiçbir şekilde geri ödeme yapılmayacağını vurgulamak istiyoruz.
+
+autoBlogger'ın hizmetlerini kullanarak, kullanıcı, mağaza web sitelerine yapılan arama trafiğinde herhangi bir değişikliğin çeşitli faktörlere, autoBlogger'ın bu tür dalgalanmalardan sorumlu olmadığına ve olası değişiklik nedenlerinin arama motoru algoritma güncellemeleri, web sitesi değişiklikleri ve harici piyasa güçleri gibi, ancak bunlarla sınırlı olmamak üzere değişebileceği hususunda bilgilendirilir. AutoBlogger, arama trafiğinde veya arama metriklerinde herhangi bir değişiklikten sorumlu değildir ve belirli sonuçları garanti edemez.
+
+### İade ve Abonelikler
+
+Abonelikleri iptal etmeyi unutmak veya autoBlogger'ın kontrolü dışında herhangi bir nedenle iade yapılmaz.
+
+### Backlink Programı
+
+Backlink programına katılarak, mağaza URL'nizin diğer mağazaların bloglarında paylaşılmasına ve bazen bloglarınızda diğer mağazalara yapılan bağlantıların yer almasına izin vermiş olursunuz. Ayrıca, autoBlogger, bağlantılı mağazaların içeriğinden sorumlu değildir.
+
+## Şartlar ve Koşullar:
+
+### Kabul Edilebilir Kullanım
+
+Kullanıcı, autoBlogger'ı yalnızca yasal amaçlarla kullanmayı kabul eder. Kullanıcı, autoBlogger'ı iftira, saldırgan veya yasa dışı içerik oluşturmak veya dağıtmak için kullanmayacaktır.
+
+### Ücretler ve Ödeme
+
+Kullanıcı, autoBlogger'ı kullanmanın herhangi bir ücreti olduğunu kabul eder. AutoBlogger'ın yaratıcıları, ücretleri her zaman değiştirme hakkını saklı tutar. Kullanıcı, ücretlerde herhangi bir değişiklik yapma hakkına sahiptir ve bu durumda önceden bildirilecektir.
+
+### Sorumluluk Sınırlaması
+
+AutoBlogger'ın yaratıcıları, autoBlogger'ın kullanımı veya kullanamama durumundan kaynaklanan doğrudan, dolaylı, tesadüfi veya sonuçlanan zararlardan sorumlu olmayacaktır; bunlar, ancak bunlarla sınırlı olmamak üzere, kâr kaybı, veri veya iş kaybını içerebilir.
+
+### Sonlandırma
+
+AutoBlogger'ın yaratıcıları, herhangi bir nedenle herhangi bir zamanda kullanıcının autoBlogger'a erişimini sonlandırma hakkını saklı tutar. Kullanıcı, autoBlogger'ı Shopify mağazasından kaldırarak herhangi bir zamanda kullanımını sonlandırabilir.
+
+### Gizlilik Politikası
+
+AutoBlogger'ın yaratıcıları, kullanıcılarının gizliliğini ciddiye almaktadır. Kullanıcı tarafından sağlanan bilgileri yalnızca Shopify Gizlilik Politikası'na uygun olarak kullanacaktır. AutoBlogger'ı kullanarak, kullanıcı, Shopify Gizlilik Politikası'nın şartlarını kabul etmiş olur.
+
+### Feragat
+
+AutoBlogger, "olduğu gibi" sağlanır ve herhangi bir garanti, açık veya zımni, olmaksızın sunulur. AutoBlogger'ın yaratıcıları, autoBlogger tarafından oluşturulan içeriğin doğruluğu veya eksiksizliği dahil olmak üzere her türlü beyan veya garantiyi reddeder.
+
+### Tazminat
+
+Kullanıcı, autoBlogger'ın yaratıcılarını, kullanıcının autoBlogger'ı kullanması veya bu şartlar ve koşulları ihlal etmesiyle ilgili olarak ortaya çıkabilecek herhangi bir talep, zarar, masraf ve sorumluluktan, makul avukat ücretleri de dahil olmak üzere, tazmin etmeyi kabul eder.
+
+### Şartlar ve Koşulların Değiştirilmesi
+
+AutoBlogger'ın yaratıcıları, bu şartları ve koşulları herhangi bir zamanda değiştirme hakkını saklı tutar. Kullanıcı, bu şartlarda yapılan herhangi bir değişikliği önceden bilgilendirilecektir.
+
+### Uygulanabilir Hukuk ve Yargı Yetkisi
+
+Bu şartlar ve koşullar, autoBlogger'ın yaratıcılarının bulunduğu yargı alanındaki yasalara uygun olarak yorumlanacak ve uygulanacaktır. Kullanıcı, o yargı alanındaki mahkemelere münhasır yargı yetkisine tabi olmayı kabul eder.
+
+### Back-Link Programı
+
+Back-link programına katılarak, mağaza URL'nizin diğer mağazaların bloglarında paylaşılmasına ve bazen bloglarınızda diğer mağazalara yapılan bağlantıların yer almasına izin vermiş olursunuz. Ayrıca, back-link programı kapsamında bloglarınızın zaman zaman diğer mağazalara ait bağlantıları içerebileceğini kabul edersiniz. Bu karşılıklı düzenleme, katılan kullanıcılar arasında karşılıklı tanıtım ve avantajlar sağlamayı amaçlamaktadır.
+
+AutoBlogger, bağlantı verilen mağazaların içeriğinden sorumlu değildir. Her mağaza, kendi içeriğinin doğruluğu, yasallığı ve uygunluğundan tamamen sorumludur.
+
+Back-link'ler yayınlandıktan sonra bunları önceden autoBlogger'ın izni olmadan kaldırmayı kabul edersiniz. Back-link'leri kaldırmak, programdan çıkma ile sonuçlanabilir.
+
+AutoBlogger, back-link programını herhangi bir zamanda önceden bildirim yapmaksızın değiştirme veya sonlandırma hakkını saklı tutar. Bu şartları düzenli olarak incelemeniz ve herhangi bir değişiklik hakkında bilgi sahibi olmanız sizin sorumluluğunuzdadır.
+
 
 
 
