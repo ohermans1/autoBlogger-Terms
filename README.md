@@ -290,6 +290,20 @@ Tvůrci autoBloggeru si vyhrazují právo kdykoliv ukončit přístup uživatele
 
 Tvůrci autoBloggeru bere ochranu osobních údajů svých uživatelů vážně. Informace poskytnuté uživatelem budou použity pouze v souladu s Pravidly ochrany osobních ú
 
+### Program Zpětných Odkazů
+
+Účastí v programu zpětných odkazů uznáváte a souhlasíte s těmito podmínkami. Tyto podmínky představují závaznou dohodu mezi vámi a autoBlogger.
+
+Připojením k programu zpětných odkazů udělujete autoBloggeru povolení sdílet a publikovat URL vašeho obchodu na blogy jiných obchodů. To zvyšuje viditelnost a potenciální návštěvnost vašeho obchodu.
+
+Jako součást programu zpětných odkazů mohou vaše blogy občas obsahovat odkazy na jiné obchody. Tato vzájemná dohoda má za cíl podporovat společnou propagaci a vzájemné výhody mezi účastníky.
+
+autoBlogger nepřebírá žádnou odpovědnost za obsah jakýchkoli propojených obchodů. Každý obchod je plně zodpovědný za přesnost, legalitu a vhodnost svého vlastního obsahu.
+
+Jakmile jsou zpětné odkazy zveřejněny, souhlasíte s tím, že je nebudete odstraňovat bez předchozího souhlasu od autoBloggeru. Odebrání zpětných odkazů může vést k ukončení účasti v programu.
+
+autoBlogger si vyhrazuje právo kdykoli modifikovat nebo ukončit program zpětných odkazů bez předchozího upozornění. Je vaší odpovědností pravidelně přezkoumávat tyto podmínky, abyste byli informováni o případných změnách.
+
 ***
 
 # Danish <a name="danish"></a>
@@ -356,6 +370,20 @@ Skaberne af autoBlogger forbeholder sig ret til at ændre disse vilkår og betin
 ### Lovvalg og jurisdiktion
 
 Disse vilkår og betingelser er underlagt og fortolkes i overensstemmelse med lovene i det jurisdiktionssted, hvor skaberne af autoBlogger er beliggende. Brugeren accepterer at underkaste sig de eksklusive domstole i
+
+### Backlink-program
+
+Ved at deltage i backlink-programmet anerkender og accepterer du disse vilkår og betingelser. Disse vilkår udgør en bindende aftale mellem dig og autoBlogger.
+
+Ved at deltage i backlink-programmet giver du autoBlogger tilladelse til at dele og offentliggøre din butiks URL på andre butikkers blogs. Dette øger synligheden og potentielle besøg til din butik.
+
+Som en del af backlink-programmet kan dine blogs lejlighedsvis indeholde links til andre butikker. Denne gensidige aftale sigter mod at fremme tværfremme og gensidige fordele blandt deltagende brugere.
+
+autoBlogger påtager sig intet ansvar for indholdet af eventuelle linkede butikker. Hver butik er udelukkende ansvarlig for nøjagtigheden, lovligheden og passende indhold af sin egen butik.
+
+Når backlinks er offentliggjort, accepterer du ikke at fjerne dem uden forudgående samtykke fra autoBlogger. Fjernelse af backlinks kan medføre afslutning af programmet.
+
+autoBlogger forbeholder sig ret til at ændre eller afslutte backlink-programmet når som helst uden forudgående varsel. Det er dit ansvar at gennemgå disse vilkår regelmæssigt for at holde dig informeret om eventuelle ændringer.
 
 ***
 
@@ -424,6 +452,20 @@ De makers van autoBlogger behouden zich het recht voor om deze voorwaarden op el
 
 Deze voorwaarden vallen onder en worden geïnterpreteerd volgens de wetten van de jurisdictie waar de makers van autoBlogger zich bevinden. De gebruiker stemt ermee in zich te onderwerpen aan de exclusieve jurisdictie van de rechtbanken in die jurisdictie.
 
+### Back-Link Programma
+
+Door deel te nemen aan het back-link programma erken en ga je akkoord met deze voorwaarden. Deze voorwaarden vormen een bindende overeenkomst tussen jou en autoBlogger.
+
+Door deel te nemen aan het back-link programma geef je autoBlogger toestemming om je winkel-URL te delen en te plaatsen op blogs van andere winkels. Dit vergroot de zichtbaarheid en potentiële verkeer naar je winkel.
+
+Als onderdeel van het back-link programma kunnen jouw blogs af en toe links bevatten naar andere winkels. Deze wederzijdse regeling heeft tot doel cross-promotie en wederzijdse voordelen te bevorderen onder deelnemende gebruikers.
+
+autoBlogger aanvaardt geen verantwoordelijkheid voor de inhoud van gelinkte winkels. Elke winkel is volledig verantwoordelijk voor de nauwkeurigheid, wettigheid en geschiktheid van de eigen inhoud.
+
+Nadat de back-links zijn gepubliceerd, ga je ermee akkoord deze niet te verwijderen zonder voorafgaande toestemming van autoBlogger. Het verwijderen van back-links kan leiden tot beëindiging van het programma.
+
+autoBlogger behoudt zich het recht voor om het back-link programma op elk moment te wijzigen of te beëindigen zonder voorafgaande kennisgeving. Het is jouw verantwoordelijkheid om deze voorwaarden regelmatig te bekijken om op de hoogte te blijven van eventuele wijzigingen.
+
 ***
 
 # Finnish <a name="finnish"></a>
@@ -482,6 +524,20 @@ autoBlogger toimitetaan "sellaisenaan" ilman mitään takuita, ilmaistuja tai ep
 ### Vapautus
 
 Käyttäjä sitoutuu korvaamaan ja pitämään vahingoittumattomana autoBloggerin
+
+### Takaisinlinkki-ohjelma
+
+Osallistumalla takaisinlinkki-ohjelmaan myönnät nämä ehdot ja sitoudut niihin. Nämä ehdot muodostavat sitovan sopimuksen sinun ja autoBloggerin välille.
+
+Liittymällä takaisinlinkki-ohjelmaan annat autoBloggerille luvan jakaa ja julkaista kauppaosioidesi URL-osoite muiden kauppojen blogeissa. Tämä lisää näkyvyyttä ja mahdollista liikennettä kauppaasi.
+
+Osana takaisinlinkki-ohjelmaa blogisi voivat satunnaisesti sisältää linkkejä muihin kauppoihin. Tämä vastavuoroinen järjestely pyrkii edistämään ristipromootiota ja molemminpuolisia etuja osallistuvien käyttäjien keskuudessa.
+
+autoBlogger ei ota vastuuta minkään linkitetyn kaupan sisällöstä. Jokainen kauppa on yksin vastuussa oman sisältönsä tarkkuudesta, laillisuudesta ja sopivuudesta.
+
+Kun takaisinlinkit on julkaistu, sitoudut olemaan poistamatta niitä ilman etukäteen annettua suostumusta autoBloggerilta. Takaisinlinkkien poistaminen voi johtaa ohjelman päättymiseen.
+
+autoBlogger pidättää oikeuden muuttaa tai lopettaa takaisinlinkki-ohjelman milloin tahansa ilman ennakkoilmoitusta. On sinun vastuullasi tarkastella näitä ehtoja säännöllisesti pysyäksesi ajan tasalla mahdollisista muutoksista.
 
 ***
 
@@ -550,6 +606,20 @@ Les créateurs de autoBlogger se réservent le droit de modifier ces termes et c
 
 Ces termes et conditions sont régis par et interprétés conformément aux lois de la juridiction où les créateurs de autoBlogger sont situés. L'utilisateur accepte de se soumettre à la juridiction exclusive des tribunaux de cette juridiction.
 
+### Programme de Backlinks
+
+En participant au programme de backlinks, vous reconnaissez et acceptez ces termes et conditions. Ces termes constituent un accord contraignant entre vous et autoBlogger.
+
+En rejoignant le programme de backlinks, vous accordez à autoBlogger la permission de partager et de publier l'URL de votre magasin sur les blogs d'autres magasins. Cela augmente la visibilité et le trafic potentiel vers votre magasin.
+
+Dans le cadre du programme de backlinks, vos blogs peuvent occasionnellement comporter des liens vers d'autres magasins. Cette arrangement réciproque vise à favoriser la promotion croisée et les avantages mutuels parmi les utilisateurs participants.
+
+autoBlogger n'assume aucune responsabilité pour le contenu des magasins liés. Chaque magasin est entièrement responsable de l'exactitude, de la légalité et de l'adéquation de son propre contenu.
+
+Une fois que les backlinks sont publiés, vous acceptez de ne pas les supprimer sans le consentement préalable d'autoBlogger. Supprimer des backlinks peut entraîner la résiliation du programme.
+
+autoBlogger se réserve le droit de modifier ou de mettre fin au programme de backlinks à tout moment sans préavis. Il est de votre responsabilité de revoir périodiquement ces termes pour rester informé de tout changement.
+
 ***
 
 # German <a name="german"></a>
@@ -617,6 +687,20 @@ Die Ersteller von autoBlogger behalten sich das Recht vor, diese Bedingungen jed
 
 Diese Bedingungen unterliegen den Gesetzen und werden gemäß den Gesetzen der Gerichtsbarkeit interpretiert, in der sich die Ersteller von autoBlogger befinden. Der Benutzer erklärt sich damit einverstanden, sich der ausschließlichen Gerichtsbarkeit der Gerichte in dieser Gerichtsbarkeit zu unterwerfen.
 
+### Backlink-Programm
+
+Durch die Teilnahme am Backlink-Programm erkennen Sie diese Bedingungen an und stimmen ihnen zu. Diese Bedingungen stellen eine verbindliche Vereinbarung zwischen Ihnen und autoBlogger dar.
+
+Durch die Teilnahme am Backlink-Programm erteilen Sie autoBlogger die Erlaubnis, Ihre Shop-URL auf Blogs anderer Shops zu teilen und zu veröffentlichen. Dies erhöht die Sichtbarkeit und das potenzielle Traffic für Ihren Shop.
+
+Im Rahmen des Backlink-Programms können Ihre Blogs gelegentlich Links zu anderen Shops enthalten. Diese gegenseitige Vereinbarung zielt darauf ab, die gegenseitige Förderung und Vorteile unter den teilnehmenden Benutzern zu fördern.
+
+autoBlogger übernimmt keine Verantwortung für den Inhalt verlinkter Shops. Jeder Shop ist allein verantwortlich für die Genauigkeit, Legalität und Angemessenheit seines eigenen Inhalts.
+
+Nach der Veröffentlichung der Backlinks stimmen Sie zu, diese nicht ohne vorherige Zustimmung von autoBlogger zu entfernen. Das Entfernen von Backlinks kann zur Beendigung des Programms führen.
+
+autoBlogger behält sich das Recht vor, das Backlink-Programm jederzeit ohne vorherige Ankündigung zu ändern oder zu beenden. Es liegt in Ihrer Verantwortung, diese Bedingungen regelmäßig zu überprüfen, um über etwaige Änderungen informiert zu bleiben.
+
 ***
 
 # Italian <a name="italian"></a>
@@ -683,6 +767,20 @@ Gli autori di autoBlogger si riservano il diritto di modificare questi termini e
 ### Legge Applicabile e Giurisdizione
 
 Questi termini e condizioni sono disciplinati e interpretati in conformità con le leggi della giurisdizione in cui si trovano gli autori di autoBlogger. L'utente accetta di sottoporsi alla giurisdizione esclusiva dei tribunali di quella giurisdizione.
+
+### Programma di Backlink
+
+Partecipando al programma di backlink, riconosci e accetti questi termini e condizioni. Questi termini costituiscono un accordo vincolante tra te e autoBlogger.
+
+Unendoti al programma di backlink, concedi ad autoBlogger il permesso di condividere e pubblicare l'URL del tuo negozio su blog di altri negozi. Ciò aumenta la visibilità e il potenziale traffico per il tuo negozio.
+
+Come parte del programma di backlink, i tuoi blog potrebbero occasionalmente includere link ad altri negozi. Questo accordo reciproco mira a favorire la promozione incrociata e i benefici reciproci tra gli utenti partecipanti.
+
+autoBlogger non si assume alcuna responsabilità per il contenuto di eventuali negozi collegati. Ciascun negozio è completamente responsabile dell'accuratezza, legalità e adeguatezza del proprio contenuto.
+
+Una volta che i backlink sono pubblicati, accetti di non rimuoverli senza il consenso preventivo di autoBlogger. La rimozione dei backlink potrebbe comportare la terminazione del programma.
+
+autoBlogger si riserva il diritto di modificare o terminare il programma di backlink in qualsiasi momento senza preavviso. È tua responsabilità rivedere periodicamente questi termini per rimanere informato su eventuali cambiamenti.
 
 ***
 
