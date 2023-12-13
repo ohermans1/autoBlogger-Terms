@@ -849,6 +849,20 @@ autoBloggerの制作者は、これらの利用規約をいつでも変更する
 
 これらの利用規約はautoBloggerの制作者が所在する管轄区域の法律に従って解釈されます。ユーザーはその管轄区域の裁判所の専属の管轄権を受け入れるものとします。
 
+### バックリンクプログラム
+
+バックリンクプログラムに参加することで、これらの利用規約を認識し同意するものとします。これらの条件は、あなたとautoBloggerとの間の拘束力のある合意を構成しています。
+
+バックリンクプログラムに参加することで、あなたはautoBloggerに対して、他のストアのブログにおいてあなたのストアのURLを共有し投稿する権限を付与します。これにより、あなたのストアへの視認性と潜在的なトラフィックが向上します。
+
+バックリンクプログラムの一環として、あなたのブログには時折他のストアへのリンクが表示されることがあります。この相互の取り決めは、参加者間での相互のプロモーションと相互の利益を促進することを目的としています。
+
+autoBloggerは、リンクされたストアのコンテンツについて一切の責任を負いません。各ストアは独自のコンテンツの正確性、合法性、適切さについて完全に責任を負います。
+
+バックリンクが公開された後は、autoBloggerの事前の同意なしにそれらを削除しないことに同意します。バックリンクを削除するとプログラムからの終了が発生する可能性があります。
+
+autoBloggerは事前の通知なしにバックリンクプログラムをいつでも変更または終了する権利を留保します。変更については定期的にこれらの条件を確認することがあなたの責任です。
+
 ***
 
 # Korean <a name="korean"></a>
@@ -915,6 +929,20 @@ autoBlogger의 창조자는 언제든지 이 이용 약관을 수정할 권리�
 ### 적용 법 및 관할권
 
 이 이용 약관은 autoBlogger의 창조자가 위치한 관할구역의 법률에 따라 해석되며 적용됩니다. 사용자는 해당 관할구역의 법원의 전속 관할권에 따라 제출하기로 동의합니다.
+
+### 백링크 프로그램
+
+백링크 프로그램에 참여함으로써 이러한 약관을 인식하고 동의하는 것으로 간주됩니다. 이러한 조건은 당신과 autoBlogger 간의 구속력 있는 합의를 형성합니다.
+
+백링크 프로그램에 참여함으로써 autoBlogger에게 귀하의 상점 URL을 다른 상점 블로그에 공유하고 게시할 수 있는 권한을 부여합니다. 이로써 귀하의 상점에 대한 가시성과 잠재적인 트래픽이 증가합니다.
+
+백링크 프로그램의 일환으로 귀하의 블로그에는 가끔 다른 상점으로의 링크가 포함될 수 있습니다. 이 상호 협정은 참가자 간의 상호 프로모션과 이익을 촉진하기 위한 것입니다.
+
+autoBlogger는 연결된 상점의 콘텐츠에 대한 어떠한 책임도 지지 않습니다. 각 상점은 자체 콘텐츠의 정확성, 적법성 및 적절성에 대한 전적인 책임이 있습니다.
+
+백링크가 게시된 후에는 autoBlogger의 사전 동의 없이 이를 제거하지 않기로 동의합니다. 백링크를 제거하면 프로그램 종료가 발생할 수 있습니다.
+
+autoBlogger는 사전 고지없이 언제든지 백링크 프로그램을 변경하거나 종료할 권리를 보유합니다. 변경 사항을 확인하려면 정기적으로 이러한 조건을 검토하는 것이 귀하의 책임입니다.
 
 ***
 
@@ -983,6 +1011,20 @@ Skaperne av autoBlogger forbeholder seg retten til å endre disse vilkårene og 
 
 Disse vilkårene og betingelsene er underlagt og tolkes i samsvar med lovene i jurisdiksjonen hvor skaperne av autoBlogger er lokalisert. Brukeren samtykker i å underkaste seg den eksklusive jurisd
 
+### Tilbakekoblingsprogram
+
+Ved å delta i tilbakekoblingsprogrammet erkjenner og samtykker du i disse vilkårene og betingelsene. Disse vilkårene utgjør en bindende avtale mellom deg og autoBlogger.
+
+Ved å bli med i tilbakekoblingsprogrammet gir du autoBlogger tillatelse til å dele og publisere din butikks URL på andre butikkers blogger. Dette øker synligheten og potensiell trafikk til din butikk.
+
+Som en del av tilbakekoblingsprogrammet kan dine blogger av og til inneholde lenker til andre butikker. Dette gjensidige arrangementet har som mål å fremme tverrmarkedsføring og gjensidige fordeler blant deltakende brukere.
+
+autoBlogger påtar seg ingen ansvar for innholdet i lenkede butikker. Hver butikk er alene ansvarlig for nøyaktigheten, lovligheten og passende innhold i sin egen butikk.
+
+Når tilbakekoblingene er publisert, samtykker du i å ikke fjerne dem uten forhåndssamtykke fra autoBlogger. Å fjerne tilbakekoblinger kan føre til avslutning fra programmet.
+
+autoBlogger forbeholder seg retten til å endre eller avslutte tilbakekoblingsprogrammet når som helst uten forhåndsvarsel. Det er ditt ansvar å jevnlig gjennomgå disse vilkårene for å holde deg informert om eventuelle endringer.
+
 ***
 
 # Polish <a name="polish"></a>
@@ -1050,6 +1092,20 @@ Twórcy autoBloggera zastrzegają sobie prawo do modyfikowania niniejszych warun
 
 Niniejsze warunki i postanowienia są objęte i interpretowane zgodnie z prawem jurysdykcji, w której znajdują się twórcy autoBloggera. Użytkownik zgadza się poddać wyłącznej jurysdykcji sądów tej jurysdykcji.
 
+### Program Wstecznych Odnośników
+
+Uczestnicząc w programie wstecznych odnośników, akceptujesz te warunki i zasady. Warunki te stanowią wiążącą umowę między tobą a autoBlogger.
+
+Przystępując do programu wstecznych odnośników, udzielasz autoBloggerowi zgody na udostępnianie i publikowanie adresu URL Twojego sklepu na blogach innych sklepów. To zwiększa widoczność i potencjalny ruch na Twój sklep.
+
+W ramach programu wstecznych odnośników Twoje blogi mogą czasami zawierać odnośniki do innych sklepów. Ta wzajemna współpraca ma na celu promowanie wspólnej promocji i korzyści wzajemnych między uczestniczącymi użytkownikami.
+
+autoBlogger nie ponosi odpowiedzialności za treść żadnych połączonych sklepów. Każdy sklep ponosi pełną odpowiedzialność za dokładność, legalność i odpowiedniość swojej własnej treści.
+
+Po opublikowaniu wstecznych odnośników zgadzasz się, że nie będziesz ich usuwać bez uprzedniej zgody autoBloggera. Usunięcie wstecznych odnośników może skutkować zakończeniem udziału w programie.
+
+autoBlogger zastrzega sobie prawo do modyfikacji lub zakończenia programu wstecznych odnośników w dowolnym czasie, bez wcześniejszego powiadomienia. Odpowiada tobie regularne sprawdzanie tych warunków, aby być informowanym o ewentualnych zmianach.
+
 ***
 
 # Portuguese (Brazil) <a name="portuguese-brazil"></a>
@@ -1108,6 +1164,20 @@ O autoBlogger é fornecido "como está" sem quaisquer garantias, expressas ou im
 ### Indenização
 
 O usuário concorda em indenizar e isentar os criadores do autoBlogger de quaisquer reivindicações, danos, despesas e responsabilidades
+
+### Programa de Backlinks
+
+Ao participar do programa de backlinks, você reconhece e concorda com estes termos e condições. Estes termos constituem um acordo vinculativo entre você e o autoBlogger.
+
+Ao aderir ao programa de backlinks, você concede permissão ao autoBlogger para compartilhar e publicar a URL da sua loja em blogs de outras lojas. Isso aumenta a visibilidade e o tráfego potencial para a sua loja.
+
+Como parte do programa de backlinks, seus blogs podem ocasionalmente apresentar links para outras lojas. Esse acordo recíproco visa promover a promoção cruzada e benefícios mútuos entre os usuários participantes.
+
+O autoBlogger não assume qualquer responsabilidade pelo conteúdo de outras lojas vinculadas. Cada loja é inteiramente responsável pela precisão, legalidade e adequação do seu próprio conteúdo.
+
+Após a publicação dos backlinks, você concorda em não removê-los sem o consentimento prévio do autoBlogger. A remoção de backlinks pode resultar na rescisão do programa.
+
+O autoBlogger reserva-se o direito de modificar ou encerrar o programa de backlinks a qualquer momento, sem aviso prévio. É sua responsabilidade revisar periodicamente estes termos para ficar informado sobre quaisquer mudanças.
 
 ***
 
@@ -1176,6 +1246,20 @@ Os criadores do autoBlogger reservam-se o direito de modificar estes termos e co
 
 Estes termos e condições são regidos e interpretados de acordo com as leis da jurisdição onde os criadores do autoBlogger estão localizados. O utilizador concorda em submeter-se à jurisdição exclusiva dos tribunais dessa jurisdição.
 
+### Programa de Backlinks
+
+Ao participar no programa de backlinks, reconhece e concorda com estes termos e condições. Estes termos constituem um acordo vinculativo entre si e o autoBlogger.
+
+Ao aderir ao programa de backlinks, concede permissão ao autoBlogger para partilhar e publicar a URL da sua loja nos blogs de outras lojas. Isto aumenta a visibilidade e o tráfego potencial para a sua loja.
+
+Como parte do programa de backlinks, os seus blogs poderão ocasionalmente incluir links para outras lojas. Este acordo recíproco tem como objetivo fomentar a promoção cruzada e benefícios mútuos entre os utilizadores participantes.
+
+O autoBlogger não assume qualquer responsabilidade pelo conteúdo de outras lojas vinculadas. Cada loja é totalmente responsável pela precisão, legalidade e adequação do seu próprio conteúdo.
+
+Após a publicação dos backlinks, concorda em não os remover sem o consentimento prévio do autoBlogger. A remoção de backlinks pode resultar na rescisão do programa.
+
+O autoBlogger reserva-se o direito de modificar ou terminar o programa de backlinks a qualquer momento, sem aviso prévio. É da sua responsabilidade rever periodicamente estes termos para se manter informado sobre quaisquer alterações.
+
 ***
 
 # Spanish <a name="spanish"></a>
@@ -1242,6 +1326,20 @@ Los creadores de autoBlogger se reservan el derecho de modificar estos términos
 ### Ley Aplicable y Jurisdicción
 
 Estos términos y condiciones están regidos e interpretados de acuerdo con las leyes de la jurisdicción donde se encuentran los creadores de autoBlogger. El usuario acepta someterse a la jurisdicción exclusiva de los tribunales en esa jurisdicción.
+
+### Programa de Enlaces Recíprocos
+
+Al participar en el programa de enlaces recíprocos, reconoces y aceptas estos términos y condiciones. Estos términos constituyen un acuerdo vinculante entre tú y autoBlogger.
+
+Al unirte al programa de enlaces recíprocos, otorgas permiso a autoBlogger para compartir y publicar la URL de tu tienda en los blogs de otras tiendas. Esto aumenta la visibilidad y el tráfico potencial hacia tu tienda.
+
+Como parte del programa de enlaces recíprocos, tus blogs pueden presentar ocasionalmente enlaces a otras tiendas. Este acuerdo recíproco tiene como objetivo fomentar la promoción cruzada y los beneficios mutuos entre los usuarios participantes.
+
+autoBlogger no asume ninguna responsabilidad por el contenido de las tiendas enlazadas. Cada tienda es totalmente responsable de la precisión, legalidad y adecuación de su propio contenido.
+
+Una vez que los enlaces recíprocos se publiquen, aceptas no eliminarlos sin el consentimiento previo de autoBlogger. La eliminación de enlaces recíprocos puede resultar en la terminación del programa.
+
+autoBlogger se reserva el derecho de modificar o terminar el programa de enlaces recíprocos en cualquier momento, sin previo aviso. Es tu responsabilidad revisar periódicamente estos términos para estar informado sobre cualquier cambio.
 
 ***
 
