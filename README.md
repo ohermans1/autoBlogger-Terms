@@ -44,7 +44,7 @@ By using autoBlogger's services, you acknowledge that any changes in search traf
 
 Refunds are not offered for forgetting to cancel subscriptions or for any other reason outside of autoBlogger's control.
 
-### Backlink Program
+### Backlink Program (not yet availble for Wix users)
 
 By joining the back-link program, you consent to the sharing and posting of your store URL on other stores' blogs. You also agree that links to other stores may occasionally be posted on your blogs. Please note that autoBlogger bears no responsibility for the content of any linked stores.
 
